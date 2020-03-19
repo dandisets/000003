@@ -1,0 +1,531 @@
+2020-10-19T23:44:26-0400 [INFO    ] dandi Traversing remote dandisets (000003) recursively
+2020-10-19T23:44:26-0400 [INFO    ] backups2datalad.py Updating metadata file
+2020-10-19T23:44:31-0400 [INFO    ] backups2datalad.py Syncing asset /sub-YutaMouse20/sub-YutaMouse20_ses-YutaMouse20-140321_behavior+ecephys.nwb
+2020-10-19T23:44:31-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-19T23:44:32-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-19T23:44:32-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/f7/65/f765fb69bd7343798fd994103c1ff2eb -> /mnt/backup/dandi/dandisets/000003/sub-YutaMouse20/sub-YutaMouse20_ses-YutaMouse20-140321_behavior+ecephys.nwb
+2020-10-19T23:44:32-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-19T23:45:52-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/f7/65/f765fb69bd7343798fd994103c1ff2eb?versionId=V5BK7tKKBlGCdAV75e_Q98xRAWvq5NCG to asset
+2020-10-19T23:45:53-0400 [INFO    ] backups2datalad.py Syncing asset /sub-YutaMouse20/sub-YutaMouse20_ses-YutaMouse20-140324_behavior+ecephys.nwb
+2020-10-19T23:45:53-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-19T23:45:53-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-19T23:45:53-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/c1/fc/c1fc531914be43b589ac07faa9246ba8 -> /mnt/backup/dandi/dandisets/000003/sub-YutaMouse20/sub-YutaMouse20_ses-YutaMouse20-140324_behavior+ecephys.nwb
+2020-10-19T23:45:53-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-19T23:47:00-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/c1/fc/c1fc531914be43b589ac07faa9246ba8?versionId=kb5nVk3da50hH1HjDr70hOctyd.QKoW6 to asset
+2020-10-19T23:47:01-0400 [INFO    ] backups2datalad.py Syncing asset /sub-YutaMouse20/sub-YutaMouse20_ses-YutaMouse20-140325_behavior+ecephys.nwb
+2020-10-19T23:47:01-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-19T23:47:01-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-19T23:47:01-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/02/5e/025ed5e102944f7a9c9bf5fcbf34c040 -> /mnt/backup/dandi/dandisets/000003/sub-YutaMouse20/sub-YutaMouse20_ses-YutaMouse20-140325_behavior+ecephys.nwb
+2020-10-19T23:47:01-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-19T23:48:32-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/02/5e/025ed5e102944f7a9c9bf5fcbf34c040?versionId=l4Qb4yIokLKzDv_VDCFjbJVuv9s6_uuk to asset
+2020-10-19T23:48:32-0400 [INFO    ] backups2datalad.py Syncing asset /sub-YutaMouse20/sub-YutaMouse20_ses-YutaMouse20-140327_behavior+ecephys.nwb
+2020-10-19T23:48:32-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-19T23:48:33-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-19T23:48:33-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/ad/d3/add37b35c0514ebf883b7f1a934f9b46 -> /mnt/backup/dandi/dandisets/000003/sub-YutaMouse20/sub-YutaMouse20_ses-YutaMouse20-140327_behavior+ecephys.nwb
+2020-10-19T23:48:33-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-19T23:49:47-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/ad/d3/add37b35c0514ebf883b7f1a934f9b46?versionId=cQTnceufdoFeYWE..pfAQVde2qhWQ4HA to asset
+2020-10-19T23:49:47-0400 [INFO    ] backups2datalad.py Syncing asset /sub-YutaMouse20/sub-YutaMouse20_ses-YutaMouse20-140328_behavior+ecephys.nwb
+2020-10-19T23:49:47-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-19T23:49:48-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-19T23:49:48-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/3a/31/3a31f7e4e68f4adab3c72053ef7d87b0 -> /mnt/backup/dandi/dandisets/000003/sub-YutaMouse20/sub-YutaMouse20_ses-YutaMouse20-140328_behavior+ecephys.nwb
+2020-10-19T23:49:48-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-19T23:51:25-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/3a/31/3a31f7e4e68f4adab3c72053ef7d87b0?versionId=6zwEJWma7iwt1OXl90uqiPIXsf8fywgO to asset
+2020-10-19T23:51:25-0400 [INFO    ] backups2datalad.py Syncing asset /sub-YutaMouse23/sub-YutaMouse23_ses-YutaMouse23-140804_behavior+ecephys.nwb
+2020-10-19T23:51:25-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-19T23:51:26-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-19T23:51:26-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/42/81/4281ffb4225c40e0b5c6528568d43737 -> /mnt/backup/dandi/dandisets/000003/sub-YutaMouse23/sub-YutaMouse23_ses-YutaMouse23-140804_behavior+ecephys.nwb
+2020-10-19T23:51:26-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-19T23:52:11-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/42/81/4281ffb4225c40e0b5c6528568d43737?versionId=ZX54ud.JPQt6ULX3MXLPUvGryep4dPdc to asset
+2020-10-19T23:52:12-0400 [INFO    ] backups2datalad.py Syncing asset /sub-YutaMouse23/sub-YutaMouse23_ses-YutaMouse23-140805_behavior+ecephys.nwb
+2020-10-19T23:52:12-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-19T23:52:12-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-19T23:52:12-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/5f/42/5f42b754574747ed8f83486be6994e5a -> /mnt/backup/dandi/dandisets/000003/sub-YutaMouse23/sub-YutaMouse23_ses-YutaMouse23-140805_behavior+ecephys.nwb
+2020-10-19T23:52:12-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-19T23:52:52-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/5f/42/5f42b754574747ed8f83486be6994e5a?versionId=o.aWxNgbIeJSS_b4vYH4MFXMfAwA4P94 to asset
+2020-10-19T23:52:52-0400 [INFO    ] backups2datalad.py Syncing asset /sub-YutaMouse23/sub-YutaMouse23_ses-YutaMouse23-140806_behavior+ecephys.nwb
+2020-10-19T23:52:52-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-19T23:52:52-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-19T23:52:52-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/3f/4b/3f4be7041e444175b22f80f307e4c0e5 -> /mnt/backup/dandi/dandisets/000003/sub-YutaMouse23/sub-YutaMouse23_ses-YutaMouse23-140806_behavior+ecephys.nwb
+2020-10-19T23:52:52-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-19T23:53:51-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/3f/4b/3f4be7041e444175b22f80f307e4c0e5?versionId=mklHCEmIGkC9tx2Qmyha_L0I.qtieEAy to asset
+2020-10-19T23:53:51-0400 [INFO    ] backups2datalad.py Syncing asset /sub-YutaMouse33/sub-YutaMouse33_ses-YutaMouse33-150218_behavior+ecephys.nwb
+2020-10-19T23:53:51-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-19T23:53:51-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-19T23:53:51-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/0a/cd/0acdbab649384b0fb804dfcb3d051701 -> /mnt/backup/dandi/dandisets/000003/sub-YutaMouse33/sub-YutaMouse33_ses-YutaMouse33-150218_behavior+ecephys.nwb
+2020-10-19T23:53:51-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-19T23:55:04-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/0a/cd/0acdbab649384b0fb804dfcb3d051701?versionId=Fz.ALx3InWOwodWzTW4zNylXOit_QO07 to asset
+2020-10-19T23:55:05-0400 [INFO    ] backups2datalad.py Syncing asset /sub-YutaMouse33/sub-YutaMouse33_ses-YutaMouse33-150219_behavior+ecephys.nwb
+2020-10-19T23:55:05-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-19T23:55:05-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-19T23:55:05-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/51/f9/51f9a6a1cb414f15881430b7860453ee -> /mnt/backup/dandi/dandisets/000003/sub-YutaMouse33/sub-YutaMouse33_ses-YutaMouse33-150219_behavior+ecephys.nwb
+2020-10-19T23:55:05-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-19T23:56:28-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/51/f9/51f9a6a1cb414f15881430b7860453ee?versionId=f6LNK5Bnloa7chec1Uv.jMc_4UJFfxrh to asset
+2020-10-19T23:56:28-0400 [INFO    ] backups2datalad.py Syncing asset /sub-YutaMouse33/sub-YutaMouse33_ses-YutaMouse33-150220_behavior+ecephys.nwb
+2020-10-19T23:56:28-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-19T23:56:28-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-19T23:56:28-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/8e/86/8e86adc0efa04b55bb48922c6aa23d5d -> /mnt/backup/dandi/dandisets/000003/sub-YutaMouse33/sub-YutaMouse33_ses-YutaMouse33-150220_behavior+ecephys.nwb
+2020-10-19T23:56:28-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-19T23:57:54-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/8e/86/8e86adc0efa04b55bb48922c6aa23d5d?versionId=U9qT5HxZz51aYfnpR4c8ht_pU0j08wQQ to asset
+2020-10-19T23:57:54-0400 [INFO    ] backups2datalad.py Syncing asset /sub-YutaMouse33/sub-YutaMouse33_ses-YutaMouse33-150221_behavior+ecephys.nwb
+2020-10-19T23:57:54-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-19T23:57:55-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-19T23:57:55-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/3c/d6/3cd6df98df8b49a5bb75ab7e8472aecc -> /mnt/backup/dandi/dandisets/000003/sub-YutaMouse33/sub-YutaMouse33_ses-YutaMouse33-150221_behavior+ecephys.nwb
+2020-10-19T23:57:55-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-19T23:59:04-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/3c/d6/3cd6df98df8b49a5bb75ab7e8472aecc?versionId=BnaeQ9h9Az0U1gA_AA7hIVbfx34sobLM to asset
+2020-10-19T23:59:04-0400 [INFO    ] backups2datalad.py Syncing asset /sub-YutaMouse33/sub-YutaMouse33_ses-YutaMouse33-150222_behavior+ecephys.nwb
+2020-10-19T23:59:04-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-19T23:59:04-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-19T23:59:04-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/eb/53/eb537fcb188f483a92987993228ec424 -> /mnt/backup/dandi/dandisets/000003/sub-YutaMouse33/sub-YutaMouse33_ses-YutaMouse33-150222_behavior+ecephys.nwb
+2020-10-19T23:59:04-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-20T00:00:43-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/eb/53/eb537fcb188f483a92987993228ec424?versionId=_F0tKL3HUFeUlM6k6Q5Q9Jjo.LB12LMR to asset
+2020-10-20T00:00:44-0400 [INFO    ] backups2datalad.py Syncing asset /sub-YutaMouse33/sub-YutaMouse33_ses-YutaMouse33-150223_behavior+ecephys.nwb
+2020-10-20T00:00:44-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-20T00:00:44-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-20T00:00:44-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/10/18/10186bd99ae44181b84b64627b127fbf -> /mnt/backup/dandi/dandisets/000003/sub-YutaMouse33/sub-YutaMouse33_ses-YutaMouse33-150223_behavior+ecephys.nwb
+2020-10-20T00:00:44-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-20T00:02:56-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/10/18/10186bd99ae44181b84b64627b127fbf?versionId=A.pOQtiwwlPJlYIOVv_Or6PdDPEGfj5B to asset
+2020-10-20T00:02:56-0400 [INFO    ] backups2datalad.py Syncing asset /sub-YutaMouse33/sub-YutaMouse33_ses-YutaMouse33-150225_behavior+ecephys.nwb
+2020-10-20T00:02:56-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-20T00:02:57-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-20T00:02:57-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/dd/7f/dd7fe5b1edf64841ae4ce08dae803409 -> /mnt/backup/dandi/dandisets/000003/sub-YutaMouse33/sub-YutaMouse33_ses-YutaMouse33-150225_behavior+ecephys.nwb
+2020-10-20T00:02:57-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-20T00:03:53-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/dd/7f/dd7fe5b1edf64841ae4ce08dae803409?versionId=EoQyMl3Q_Jgoy5fU5pF8EWxsR96SQF9G to asset
+2020-10-20T00:03:53-0400 [INFO    ] backups2datalad.py Syncing asset /sub-YutaMouse33/sub-YutaMouse33_ses-YutaMouse33-150226_behavior+ecephys.nwb
+2020-10-20T00:03:53-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-20T00:03:53-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-20T00:03:53-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/ba/97/ba973291c7bb4b0ab514dda7ebe67051 -> /mnt/backup/dandi/dandisets/000003/sub-YutaMouse33/sub-YutaMouse33_ses-YutaMouse33-150226_behavior+ecephys.nwb
+2020-10-20T00:03:53-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-20T00:05:15-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/ba/97/ba973291c7bb4b0ab514dda7ebe67051?versionId=Z36v7f9jk4uS1KfBeNfmnM7DssasYVvp to asset
+2020-10-20T00:05:15-0400 [INFO    ] backups2datalad.py Syncing asset /sub-YutaMouse37/sub-YutaMouse37_ses-YutaMouse37-150609_behavior+ecephys.nwb
+2020-10-20T00:05:15-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-20T00:05:16-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-20T00:05:16-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/68/45/684599aa11954f3e8aa414c364b98ddf -> /mnt/backup/dandi/dandisets/000003/sub-YutaMouse37/sub-YutaMouse37_ses-YutaMouse37-150609_behavior+ecephys.nwb
+2020-10-20T00:05:16-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-20T00:06:00-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/68/45/684599aa11954f3e8aa414c364b98ddf?versionId=d3Ndt6J8q9k7Ooe18HDi0PuQJauGD4K2 to asset
+2020-10-20T00:06:01-0400 [INFO    ] backups2datalad.py Syncing asset /sub-YutaMouse37/sub-YutaMouse37_ses-YutaMouse37-150610_behavior+ecephys.nwb
+2020-10-20T00:06:01-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-20T00:06:01-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-20T00:06:01-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/96/3d/963d71b61d114493b76d63d752363c5d -> /mnt/backup/dandi/dandisets/000003/sub-YutaMouse37/sub-YutaMouse37_ses-YutaMouse37-150610_behavior+ecephys.nwb
+2020-10-20T00:06:01-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-20T00:07:10-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/96/3d/963d71b61d114493b76d63d752363c5d?versionId=A5mSgNoF9VDRJ_nVNxHSCzrXdC0x_Fm_ to asset
+2020-10-20T00:07:10-0400 [INFO    ] backups2datalad.py Syncing asset /sub-YutaMouse37/sub-YutaMouse37_ses-YutaMouse37-150611_behavior+ecephys.nwb
+2020-10-20T00:07:10-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-20T00:07:11-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-20T00:07:11-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/ce/c3/cec323ac38bc42069db6b4de3f392656 -> /mnt/backup/dandi/dandisets/000003/sub-YutaMouse37/sub-YutaMouse37_ses-YutaMouse37-150611_behavior+ecephys.nwb
+2020-10-20T00:07:11-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-20T00:09:22-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/ce/c3/cec323ac38bc42069db6b4de3f392656?versionId=coYrOYVjAPtegimHC_BXgisLvL.ji5NF to asset
+2020-10-20T00:09:23-0400 [INFO    ] backups2datalad.py Syncing asset /sub-YutaMouse37/sub-YutaMouse37_ses-YutaMouse37-150612_behavior+ecephys.nwb
+2020-10-20T00:09:23-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-20T00:09:23-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-20T00:09:23-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/b7/b6/b7b6b832762e4eb9bcf4529c1ec6eeb6 -> /mnt/backup/dandi/dandisets/000003/sub-YutaMouse37/sub-YutaMouse37_ses-YutaMouse37-150612_behavior+ecephys.nwb
+2020-10-20T00:09:23-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-20T00:10:34-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/b7/b6/b7b6b832762e4eb9bcf4529c1ec6eeb6?versionId=OK30XQHvCZPCtK40KlRzIl8eC6c_mXnl to asset
+2020-10-20T00:10:34-0400 [INFO    ] backups2datalad.py Syncing asset /sub-YutaMouse37/sub-YutaMouse37_ses-YutaMouse37-150617_behavior+ecephys.nwb
+2020-10-20T00:10:34-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-20T00:10:35-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-20T00:10:35-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/61/e6/61e6a416a8bc444f9282b94ff1bf41e2 -> /mnt/backup/dandi/dandisets/000003/sub-YutaMouse37/sub-YutaMouse37_ses-YutaMouse37-150617_behavior+ecephys.nwb
+2020-10-20T00:10:35-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-20T00:11:57-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/61/e6/61e6a416a8bc444f9282b94ff1bf41e2?versionId=6en7qkogS9wuLIGluSWkAOfVlEggeGeq to asset
+2020-10-20T00:11:58-0400 [INFO    ] backups2datalad.py Syncing asset /sub-YutaMouse38/sub-YutaMouse38_ses-YutaMouse38-150709_behavior+ecephys.nwb
+2020-10-20T00:11:58-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-20T00:11:58-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-20T00:11:58-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/93/18/9318b23559b9412d9c43db5907394582 -> /mnt/backup/dandi/dandisets/000003/sub-YutaMouse38/sub-YutaMouse38_ses-YutaMouse38-150709_behavior+ecephys.nwb
+2020-10-20T00:11:58-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-20T00:13:21-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/93/18/9318b23559b9412d9c43db5907394582?versionId=Qp.X1mVm8l96zp1P3OvFXnXuCwY9WIbi to asset
+2020-10-20T00:13:21-0400 [INFO    ] backups2datalad.py Syncing asset /sub-YutaMouse39/sub-YutaMouse39_ses-YutaMouse39-150727_behavior+ecephys.nwb
+2020-10-20T00:13:21-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-20T00:13:22-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-20T00:13:22-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/5e/a8/5ea8b578214c4548873120593f56a5a0 -> /mnt/backup/dandi/dandisets/000003/sub-YutaMouse39/sub-YutaMouse39_ses-YutaMouse39-150727_behavior+ecephys.nwb
+2020-10-20T00:13:22-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-20T00:14:36-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/5e/a8/5ea8b578214c4548873120593f56a5a0?versionId=CuHq30vw8VLWKgTxp4Jaszq30V5gphEv to asset
+2020-10-20T00:14:36-0400 [INFO    ] backups2datalad.py Syncing asset /sub-YutaMouse39/sub-YutaMouse39_ses-YutaMouse39-150728_behavior+ecephys.nwb
+2020-10-20T00:14:36-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-20T00:14:37-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-20T00:14:37-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/c6/a5/c6a593a3de774afc9519a386b1f39c0d -> /mnt/backup/dandi/dandisets/000003/sub-YutaMouse39/sub-YutaMouse39_ses-YutaMouse39-150728_behavior+ecephys.nwb
+2020-10-20T00:14:37-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-20T00:15:33-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/c6/a5/c6a593a3de774afc9519a386b1f39c0d?versionId=sBcPS8BPnJyJJsg5NRjD7B52ypu2UqRQ to asset
+2020-10-20T00:15:34-0400 [INFO    ] backups2datalad.py Syncing asset /sub-YutaMouse39/sub-YutaMouse39_ses-YutaMouse39-150729_behavior+ecephys.nwb
+2020-10-20T00:15:34-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-20T00:15:34-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-20T00:15:34-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/20/98/2098448067ed45da8b1f9bd32bccd12a -> /mnt/backup/dandi/dandisets/000003/sub-YutaMouse39/sub-YutaMouse39_ses-YutaMouse39-150729_behavior+ecephys.nwb
+2020-10-20T00:15:34-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-20T00:16:43-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/20/98/2098448067ed45da8b1f9bd32bccd12a?versionId=3m7fMU0hn8i7PC3YI3_EjcRhnIlRca0p to asset
+2020-10-20T00:16:44-0400 [INFO    ] backups2datalad.py Syncing asset /sub-YutaMouse39/sub-YutaMouse39_ses-YutaMouse39-150730_behavior+ecephys.nwb
+2020-10-20T00:16:44-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-20T00:16:44-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-20T00:16:44-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/54/ab/54abe359c69140509ee29b68f1dcb730 -> /mnt/backup/dandi/dandisets/000003/sub-YutaMouse39/sub-YutaMouse39_ses-YutaMouse39-150730_behavior+ecephys.nwb
+2020-10-20T00:16:44-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-20T00:17:35-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/54/ab/54abe359c69140509ee29b68f1dcb730?versionId=qHpDnVFVI1OU4mkSmgnd4D_PY3B83OwI to asset
+2020-10-20T00:17:35-0400 [INFO    ] backups2datalad.py Syncing asset /sub-YutaMouse39/sub-YutaMouse39_ses-YutaMouse39-150731_behavior+ecephys.nwb
+2020-10-20T00:17:35-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-20T00:17:35-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-20T00:17:35-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/5c/5b/5c5b452546f14cd18cbd998ca14914cd -> /mnt/backup/dandi/dandisets/000003/sub-YutaMouse39/sub-YutaMouse39_ses-YutaMouse39-150731_behavior+ecephys.nwb
+2020-10-20T00:17:35-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-20T00:18:31-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/5c/5b/5c5b452546f14cd18cbd998ca14914cd?versionId=2FDy4wT1KIlCohL0279txxPBvXKCud_q to asset
+2020-10-20T00:18:31-0400 [INFO    ] backups2datalad.py Syncing asset /sub-YutaMouse39/sub-YutaMouse39_ses-YutaMouse39-150803_behavior+ecephys.nwb
+2020-10-20T00:18:31-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-20T00:18:31-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-20T00:18:31-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/f5/d4/f5d4c5500af242f18fa84f43f3aaca76 -> /mnt/backup/dandi/dandisets/000003/sub-YutaMouse39/sub-YutaMouse39_ses-YutaMouse39-150803_behavior+ecephys.nwb
+2020-10-20T00:18:31-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-20T00:19:35-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/f5/d4/f5d4c5500af242f18fa84f43f3aaca76?versionId=Cyky0MnWkN8og5pBZK_8W9_SiU9zpY6b to asset
+2020-10-20T00:19:36-0400 [INFO    ] backups2datalad.py Syncing asset /sub-YutaMouse39/sub-YutaMouse39_ses-YutaMouse39-150804_behavior+ecephys.nwb
+2020-10-20T00:19:36-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-20T00:19:36-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-20T00:19:36-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/ee/b4/eeb4fc552fc24d2b873b104f108ec3a3 -> /mnt/backup/dandi/dandisets/000003/sub-YutaMouse39/sub-YutaMouse39_ses-YutaMouse39-150804_behavior+ecephys.nwb
+2020-10-20T00:19:36-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-20T00:20:25-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/ee/b4/eeb4fc552fc24d2b873b104f108ec3a3?versionId=vZgswpZmb9hqx5ZtMl8Dc_b5tHcdZYPa to asset
+2020-10-20T00:20:25-0400 [INFO    ] backups2datalad.py Syncing asset /sub-YutaMouse40/sub-YutaMouse40_ses-YutaMouse40-150812_behavior+ecephys.nwb
+2020-10-20T00:20:25-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-20T00:20:25-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-20T00:20:25-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/7b/0a/7b0a6d5707434fab9811b7ca5d6b77de -> /mnt/backup/dandi/dandisets/000003/sub-YutaMouse40/sub-YutaMouse40_ses-YutaMouse40-150812_behavior+ecephys.nwb
+2020-10-20T00:20:25-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-20T00:21:11-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/7b/0a/7b0a6d5707434fab9811b7ca5d6b77de?versionId=y8CyySoCiHTUUIiSOkVmF7Uyz9QeH_xx to asset
+2020-10-20T00:21:12-0400 [INFO    ] backups2datalad.py Syncing asset /sub-YutaMouse40/sub-YutaMouse40_ses-YutaMouse40-150814_behavior+ecephys.nwb
+2020-10-20T00:21:12-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-20T00:21:12-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-20T00:21:12-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/27/15/2715af15825e4568b3fa65570353b2b0 -> /mnt/backup/dandi/dandisets/000003/sub-YutaMouse40/sub-YutaMouse40_ses-YutaMouse40-150814_behavior+ecephys.nwb
+2020-10-20T00:21:12-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-20T00:21:55-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/27/15/2715af15825e4568b3fa65570353b2b0?versionId=G2w8NdXvyRxKO0plhrgVtxvx5pvKRoJk to asset
+2020-10-20T00:21:56-0400 [INFO    ] backups2datalad.py Syncing asset /sub-YutaMouse40/sub-YutaMouse40_ses-YutaMouse40-150816_behavior+ecephys.nwb
+2020-10-20T00:21:56-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-20T00:21:56-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-20T00:21:56-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/ca/f8/caf86272b5d1471eba55805a27dabe57 -> /mnt/backup/dandi/dandisets/000003/sub-YutaMouse40/sub-YutaMouse40_ses-YutaMouse40-150816_behavior+ecephys.nwb
+2020-10-20T00:21:56-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-20T00:22:45-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/ca/f8/caf86272b5d1471eba55805a27dabe57?versionId=Q1cDlaUN3bMLCesBPwFUN4JkGfPpZUYc to asset
+2020-10-20T00:22:46-0400 [INFO    ] backups2datalad.py Syncing asset /sub-YutaMouse41/sub-YutaMouse41_ses-YutaMouse41-150829_behavior+ecephys.nwb
+2020-10-20T00:22:46-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-20T00:22:46-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-20T00:22:46-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/4d/b0/4db0caa0421e496baeada2f218ddd9cf -> /mnt/backup/dandi/dandisets/000003/sub-YutaMouse41/sub-YutaMouse41_ses-YutaMouse41-150829_behavior+ecephys.nwb
+2020-10-20T00:22:46-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-20T00:23:09-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/4d/b0/4db0caa0421e496baeada2f218ddd9cf?versionId=1l1SZNgeqPVAEGgWtVaWsDe.vkbCgqD4 to asset
+2020-10-20T00:23:09-0400 [INFO    ] backups2datalad.py Syncing asset /sub-YutaMouse41/sub-YutaMouse41_ses-YutaMouse41-150831_behavior+ecephys.nwb
+2020-10-20T00:23:09-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-20T00:23:10-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-20T00:23:10-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/83/bd/83bd89123b95446da6b3f80be6d01349 -> /mnt/backup/dandi/dandisets/000003/sub-YutaMouse41/sub-YutaMouse41_ses-YutaMouse41-150831_behavior+ecephys.nwb
+2020-10-20T00:23:10-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-20T00:24:22-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/83/bd/83bd89123b95446da6b3f80be6d01349?versionId=_KDSvj2DYcLdVmypHfy4kH_NJHGRu3wV to asset
+2020-10-20T00:24:23-0400 [INFO    ] backups2datalad.py Syncing asset /sub-YutaMouse41/sub-YutaMouse41_ses-YutaMouse41-150901_behavior+ecephys.nwb
+2020-10-20T00:24:23-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-20T00:24:23-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-20T00:24:23-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/83/53/83537576e31549a0b260d406c3142bd2 -> /mnt/backup/dandi/dandisets/000003/sub-YutaMouse41/sub-YutaMouse41_ses-YutaMouse41-150901_behavior+ecephys.nwb
+2020-10-20T00:24:23-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-20T00:25:22-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/83/53/83537576e31549a0b260d406c3142bd2?versionId=DF.dS_Ynoy22PKAsld7WEpHQbkvB6dPa to asset
+2020-10-20T00:25:22-0400 [INFO    ] backups2datalad.py Syncing asset /sub-YutaMouse41/sub-YutaMouse41_ses-YutaMouse41-150902_behavior+ecephys.nwb
+2020-10-20T00:25:22-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-20T00:25:22-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-20T00:25:22-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/ee/52/ee52108d8fe944249952adbfa8083abb -> /mnt/backup/dandi/dandisets/000003/sub-YutaMouse41/sub-YutaMouse41_ses-YutaMouse41-150902_behavior+ecephys.nwb
+2020-10-20T00:25:22-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-20T00:25:46-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/ee/52/ee52108d8fe944249952adbfa8083abb?versionId=Ei9NWZYu_2JxkdLV5w3LGqDnrJYsVstX to asset
+2020-10-20T00:25:46-0400 [INFO    ] backups2datalad.py Syncing asset /sub-YutaMouse41/sub-YutaMouse41_ses-YutaMouse41-150903_behavior+ecephys.nwb
+2020-10-20T00:25:46-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-20T00:25:46-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-20T00:25:46-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/1f/b0/1fb08a7109a64a84bfb242726ff7cece -> /mnt/backup/dandi/dandisets/000003/sub-YutaMouse41/sub-YutaMouse41_ses-YutaMouse41-150903_behavior+ecephys.nwb
+2020-10-20T00:25:46-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-20T00:26:52-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/1f/b0/1fb08a7109a64a84bfb242726ff7cece?versionId=j.g7cYTsVJD0J70FTxIwNmtBzbwMfZLe to asset
+2020-10-20T00:26:52-0400 [INFO    ] backups2datalad.py Syncing asset /sub-YutaMouse41/sub-YutaMouse41_ses-YutaMouse41-150908_behavior+ecephys.nwb
+2020-10-20T00:26:52-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-20T00:26:53-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-20T00:26:53-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/a3/a8/a3a889e4d68045a1826c6dd513ce35e2 -> /mnt/backup/dandi/dandisets/000003/sub-YutaMouse41/sub-YutaMouse41_ses-YutaMouse41-150908_behavior+ecephys.nwb
+2020-10-20T00:26:53-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-20T00:27:48-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/a3/a8/a3a889e4d68045a1826c6dd513ce35e2?versionId=ZiqkltLheHS.rtugkXWiF9CW2NSeSwf6 to asset
+2020-10-20T00:27:49-0400 [INFO    ] backups2datalad.py Syncing asset /sub-YutaMouse41/sub-YutaMouse41_ses-YutaMouse41-150909_behavior+ecephys.nwb
+2020-10-20T00:27:49-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-20T00:27:49-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-20T00:27:49-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/f4/7c/f47cd8a1b9c249e08fa90416e87ae13d -> /mnt/backup/dandi/dandisets/000003/sub-YutaMouse41/sub-YutaMouse41_ses-YutaMouse41-150909_behavior+ecephys.nwb
+2020-10-20T00:27:49-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-20T00:29:18-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/f4/7c/f47cd8a1b9c249e08fa90416e87ae13d?versionId=smFT9ZthPz4JXuK3YksIB2dJ2EkSoIow to asset
+2020-10-20T00:29:18-0400 [INFO    ] backups2datalad.py Syncing asset /sub-YutaMouse41/sub-YutaMouse41_ses-YutaMouse41-150910_behavior+ecephys.nwb
+2020-10-20T00:29:18-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-20T00:29:19-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-20T00:29:19-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/f3/0c/f30c238e21974cb98f046ce3330fb7fe -> /mnt/backup/dandi/dandisets/000003/sub-YutaMouse41/sub-YutaMouse41_ses-YutaMouse41-150910_behavior+ecephys.nwb
+2020-10-20T00:29:19-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-20T00:30:49-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/f3/0c/f30c238e21974cb98f046ce3330fb7fe?versionId=QY2X2U4TmV2HdJFxVioO85rAU.FOOpr1 to asset
+2020-10-20T00:30:49-0400 [INFO    ] backups2datalad.py Syncing asset /sub-YutaMouse41/sub-YutaMouse41_ses-YutaMouse41-150911_behavior+ecephys.nwb
+2020-10-20T00:30:49-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-20T00:30:50-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-20T00:30:50-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/a9/73/a973262d30bd47baa89af114c95a21bf -> /mnt/backup/dandi/dandisets/000003/sub-YutaMouse41/sub-YutaMouse41_ses-YutaMouse41-150911_behavior+ecephys.nwb
+2020-10-20T00:30:50-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-20T00:31:56-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/a9/73/a973262d30bd47baa89af114c95a21bf?versionId=YtZZnoIy_M8PW18Fw834GlIDJeKnsYRZ to asset
+2020-10-20T00:31:56-0400 [INFO    ] backups2datalad.py Syncing asset /sub-YutaMouse42/sub-YutaMouse42_ses-YutaMouse42-151102_behavior+ecephys.nwb
+2020-10-20T00:31:56-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-20T00:31:56-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-20T00:31:56-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/34/3e/343ecc59ae704518b1ce8bbfca893fd6 -> /mnt/backup/dandi/dandisets/000003/sub-YutaMouse42/sub-YutaMouse42_ses-YutaMouse42-151102_behavior+ecephys.nwb
+2020-10-20T00:31:57-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-20T00:32:33-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/34/3e/343ecc59ae704518b1ce8bbfca893fd6?versionId=jnj9xmRKX815NGz6Memn85NfDh1obhy1 to asset
+2020-10-20T00:32:33-0400 [INFO    ] backups2datalad.py Syncing asset /sub-YutaMouse42/sub-YutaMouse42_ses-YutaMouse42-151104_behavior+ecephys.nwb
+2020-10-20T00:32:33-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-20T00:32:34-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-20T00:32:34-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/c6/2d/c62dbfd92fb048a2a980a90a1680cf5c -> /mnt/backup/dandi/dandisets/000003/sub-YutaMouse42/sub-YutaMouse42_ses-YutaMouse42-151104_behavior+ecephys.nwb
+2020-10-20T00:32:34-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-20T00:33:52-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/c6/2d/c62dbfd92fb048a2a980a90a1680cf5c?versionId=keZcrz6A6voj8vZt_VioWSmmzaDTBC.V to asset
+2020-10-20T00:33:52-0400 [INFO    ] backups2datalad.py Syncing asset /sub-YutaMouse42/sub-YutaMouse42_ses-YutaMouse42-151105_behavior+ecephys.nwb
+2020-10-20T00:33:52-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-20T00:33:53-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-20T00:33:53-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/d0/41/d041d086dfff4f3481f72e16ec303e37 -> /mnt/backup/dandi/dandisets/000003/sub-YutaMouse42/sub-YutaMouse42_ses-YutaMouse42-151105_behavior+ecephys.nwb
+2020-10-20T00:33:53-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-20T00:34:36-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/d0/41/d041d086dfff4f3481f72e16ec303e37?versionId=PGWEoAs4Jv91iPxyVVxMoBipJT_44k77 to asset
+2020-10-20T00:34:37-0400 [INFO    ] backups2datalad.py Syncing asset /sub-YutaMouse42/sub-YutaMouse42_ses-YutaMouse42-151106_behavior+ecephys.nwb
+2020-10-20T00:34:37-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-20T00:34:37-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-20T00:34:37-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/ae/f6/aef6adb5d2e644138b277bd8ae8361e9 -> /mnt/backup/dandi/dandisets/000003/sub-YutaMouse42/sub-YutaMouse42_ses-YutaMouse42-151106_behavior+ecephys.nwb
+2020-10-20T00:34:37-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-20T00:35:31-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/ae/f6/aef6adb5d2e644138b277bd8ae8361e9?versionId=fnoxuPRkVtRuFvp9LA.Qrw5GV4jnA0CM to asset
+2020-10-20T00:35:31-0400 [INFO    ] backups2datalad.py Syncing asset /sub-YutaMouse42/sub-YutaMouse42_ses-YutaMouse42-151108_behavior+ecephys.nwb
+2020-10-20T00:35:31-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-20T00:35:32-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-20T00:35:32-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/0a/42/0a4252784aff46dbb1e36c299d8b3b1d -> /mnt/backup/dandi/dandisets/000003/sub-YutaMouse42/sub-YutaMouse42_ses-YutaMouse42-151108_behavior+ecephys.nwb
+2020-10-20T00:35:32-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-20T00:36:24-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/0a/42/0a4252784aff46dbb1e36c299d8b3b1d?versionId=zF_YGfBfyWg49rR0CgUNHqWd.5xj1paY to asset
+2020-10-20T00:36:24-0400 [INFO    ] backups2datalad.py Syncing asset /sub-YutaMouse42/sub-YutaMouse42_ses-YutaMouse42-151109_ecephys.nwb
+2020-10-20T00:36:24-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-20T00:36:25-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-20T00:36:25-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/d3/5c/d35c3cc90036491382c902ee32efd355 -> /mnt/backup/dandi/dandisets/000003/sub-YutaMouse42/sub-YutaMouse42_ses-YutaMouse42-151109_ecephys.nwb
+2020-10-20T00:36:25-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-20T00:37:56-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/d3/5c/d35c3cc90036491382c902ee32efd355?versionId=WVFNMuAcgNaCRsGXJaKC3Bbt_mnhfeJT to asset
+2020-10-20T00:37:56-0400 [INFO    ] backups2datalad.py Syncing asset /sub-YutaMouse42/sub-YutaMouse42_ses-YutaMouse42-151110_ecephys.nwb
+2020-10-20T00:37:56-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-20T00:37:57-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-20T00:37:57-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/60/ef/60efb6aed848496c9fe71ebbf859c50c -> /mnt/backup/dandi/dandisets/000003/sub-YutaMouse42/sub-YutaMouse42_ses-YutaMouse42-151110_ecephys.nwb
+2020-10-20T00:37:57-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-20T00:38:52-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/60/ef/60efb6aed848496c9fe71ebbf859c50c?versionId=9XLAosZyCpg7wbMDHRhIxbviyGzYOuYl to asset
+2020-10-20T00:38:52-0400 [INFO    ] backups2datalad.py Syncing asset /sub-YutaMouse42/sub-YutaMouse42_ses-YutaMouse42-151111_ecephys.nwb
+2020-10-20T00:38:52-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-20T00:38:53-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-20T00:38:53-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/66/85/66859c89bf6d437db24dc155d0b3169a -> /mnt/backup/dandi/dandisets/000003/sub-YutaMouse42/sub-YutaMouse42_ses-YutaMouse42-151111_ecephys.nwb
+2020-10-20T00:38:53-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-20T00:39:52-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/66/85/66859c89bf6d437db24dc155d0b3169a?versionId=gob3W1Ar1PNL04q_ydJgyq5.S6nn35ge to asset
+2020-10-20T00:39:52-0400 [INFO    ] backups2datalad.py Syncing asset /sub-YutaMouse42/sub-YutaMouse42_ses-YutaMouse42-151112_behavior+ecephys.nwb
+2020-10-20T00:39:52-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-20T00:39:53-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-20T00:39:53-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/14/b4/14b4c6aa676448bab67596bb50e4b597 -> /mnt/backup/dandi/dandisets/000003/sub-YutaMouse42/sub-YutaMouse42_ses-YutaMouse42-151112_behavior+ecephys.nwb
+2020-10-20T00:39:53-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-20T00:41:30-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/14/b4/14b4c6aa676448bab67596bb50e4b597?versionId=bEfykccVEa9q35aaQTlmmL4jVc5E8tH7 to asset
+2020-10-20T00:41:31-0400 [INFO    ] backups2datalad.py Syncing asset /sub-YutaMouse42/sub-YutaMouse42_ses-YutaMouse42-151113_behavior+ecephys.nwb
+2020-10-20T00:41:31-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-20T00:41:31-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-20T00:41:31-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/41/79/4179bcf6b0894f52b12cda9adb01a9e4 -> /mnt/backup/dandi/dandisets/000003/sub-YutaMouse42/sub-YutaMouse42_ses-YutaMouse42-151113_behavior+ecephys.nwb
+2020-10-20T00:41:31-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-20T00:42:49-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/41/79/4179bcf6b0894f52b12cda9adb01a9e4?versionId=rh4blKl01LVIWv5tCGQViwV4xlUhRMap to asset
+2020-10-20T00:42:50-0400 [INFO    ] backups2datalad.py Syncing asset /sub-YutaMouse42/sub-YutaMouse42_ses-YutaMouse42-151114_behavior+ecephys.nwb
+2020-10-20T00:42:50-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-20T00:42:50-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-20T00:42:50-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/10/44/104445d43e7149309b00aa8dc34af496 -> /mnt/backup/dandi/dandisets/000003/sub-YutaMouse42/sub-YutaMouse42_ses-YutaMouse42-151114_behavior+ecephys.nwb
+2020-10-20T00:42:50-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-20T00:43:35-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/10/44/104445d43e7149309b00aa8dc34af496?versionId=Y4I0jEZQoEwk8ta9x2SaRYlTQWuufFwV to asset
+2020-10-20T00:43:36-0400 [INFO    ] backups2datalad.py Syncing asset /sub-YutaMouse42/sub-YutaMouse42_ses-YutaMouse42-151116_behavior+ecephys.nwb
+2020-10-20T00:43:36-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-20T00:43:36-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-20T00:43:36-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/47/04/4704f07a6ed3474980284e0cc9ebadf2 -> /mnt/backup/dandi/dandisets/000003/sub-YutaMouse42/sub-YutaMouse42_ses-YutaMouse42-151116_behavior+ecephys.nwb
+2020-10-20T00:43:36-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-20T00:44:36-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/47/04/4704f07a6ed3474980284e0cc9ebadf2?versionId=mqPamxm7qvgyZByHj2JeWV9dB9Tk5AlL to asset
+2020-10-20T00:44:36-0400 [INFO    ] backups2datalad.py Syncing asset /sub-YutaMouse42/sub-YutaMouse42_ses-YutaMouse42-151117_behavior+ecephys.nwb
+2020-10-20T00:44:36-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-20T00:44:37-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-20T00:44:37-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/a2/18/a218e31b7aaa44398263db1d89d5f6b7 -> /mnt/backup/dandi/dandisets/000003/sub-YutaMouse42/sub-YutaMouse42_ses-YutaMouse42-151117_behavior+ecephys.nwb
+2020-10-20T00:44:37-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-20T00:45:24-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/a2/18/a218e31b7aaa44398263db1d89d5f6b7?versionId=aXA2VjujZZ2qF7T1K4jcohaoMkA6Ufxr to asset
+2020-10-20T00:45:25-0400 [INFO    ] backups2datalad.py Syncing asset /sub-YutaMouse42/sub-YutaMouse42_ses-YutaMouse42-151118_behavior+ecephys.nwb
+2020-10-20T00:45:25-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-20T00:45:25-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-20T00:45:25-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/47/1e/471e1487036b443db2bd3f5c821475e4 -> /mnt/backup/dandi/dandisets/000003/sub-YutaMouse42/sub-YutaMouse42_ses-YutaMouse42-151118_behavior+ecephys.nwb
+2020-10-20T00:45:25-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-20T00:46:21-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/47/1e/471e1487036b443db2bd3f5c821475e4?versionId=kgDHmuj_2SJl3vuO_l9sMf7r9ZTQpW0C to asset
+2020-10-20T00:46:22-0400 [INFO    ] backups2datalad.py Syncing asset /sub-YutaMouse44/sub-YutaMouse44_ses-YutaMouse44-151129_behavior+ecephys.nwb
+2020-10-20T00:46:22-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-20T00:46:22-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-20T00:46:22-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/74/f2/74f2b0fe20ad48e6951f6d9edd61cee1 -> /mnt/backup/dandi/dandisets/000003/sub-YutaMouse44/sub-YutaMouse44_ses-YutaMouse44-151129_behavior+ecephys.nwb
+2020-10-20T00:46:22-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-20T00:47:25-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/74/f2/74f2b0fe20ad48e6951f6d9edd61cee1?versionId=2OHKgM1CdhMt9Qg7E4yZb5jToO8CyV2A to asset
+2020-10-20T00:47:26-0400 [INFO    ] backups2datalad.py Syncing asset /sub-YutaMouse51/sub-YutaMouse51_ses-YutaMouse51-160515_behavior+ecephys.nwb
+2020-10-20T00:47:26-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-20T00:47:26-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-20T00:47:26-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/bc/b9/bcb915297e2a4bb2a320a23a0b09b6b0 -> /mnt/backup/dandi/dandisets/000003/sub-YutaMouse51/sub-YutaMouse51_ses-YutaMouse51-160515_behavior+ecephys.nwb
+2020-10-20T00:47:26-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-20T00:49:01-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/bc/b9/bcb915297e2a4bb2a320a23a0b09b6b0?versionId=baOmVp4Z291GULbih1lGmK4QNwu08_Uc to asset
+2020-10-20T00:49:01-0400 [INFO    ] backups2datalad.py Syncing asset /sub-YutaMouse51/sub-YutaMouse51_ses-YutaMouse51-160516_behavior+ecephys.nwb
+2020-10-20T00:49:01-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-20T00:49:01-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-20T00:49:01-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/29/d3/29d3f4d0bf734d23aed944fd207dad09 -> /mnt/backup/dandi/dandisets/000003/sub-YutaMouse51/sub-YutaMouse51_ses-YutaMouse51-160516_behavior+ecephys.nwb
+2020-10-20T00:49:01-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-20T00:51:28-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/29/d3/29d3f4d0bf734d23aed944fd207dad09?versionId=IUZt99gho6z0YYukXsdbiM95QfHzQRLD to asset
+2020-10-20T00:51:28-0400 [INFO    ] backups2datalad.py Syncing asset /sub-YutaMouse51/sub-YutaMouse51_ses-YutaMouse51b160514_behavior+ecephys.nwb
+2020-10-20T00:51:28-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-20T00:51:29-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-20T00:51:29-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/ad/9a/ad9aa9f506bb4a44ace07c922ca6a827 -> /mnt/backup/dandi/dandisets/000003/sub-YutaMouse51/sub-YutaMouse51_ses-YutaMouse51b160514_behavior+ecephys.nwb
+2020-10-20T00:51:29-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-20T00:52:14-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/ad/9a/ad9aa9f506bb4a44ace07c922ca6a827?versionId=hEyMZJdeti0.ueqL_3C6OuDGdps8hteQ to asset
+2020-10-20T00:52:15-0400 [INFO    ] backups2datalad.py Syncing asset /sub-YutaMouse51/sub-YutaMouse51_ses-YutaMouse51b160516_behavior+ecephys.nwb
+2020-10-20T00:52:15-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-20T00:52:15-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-20T00:52:15-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/72/6d/726dfdebf30a4d41995241273e5c2fd6 -> /mnt/backup/dandi/dandisets/000003/sub-YutaMouse51/sub-YutaMouse51_ses-YutaMouse51b160516_behavior+ecephys.nwb
+2020-10-20T00:52:15-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-20T00:53:16-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/72/6d/726dfdebf30a4d41995241273e5c2fd6?versionId=xR9rH7cMvFRwJ1NvFoNqme_7W5RKlnJz to asset
+2020-10-20T00:53:17-0400 [INFO    ] backups2datalad.py Syncing asset /sub-YutaMouse54/sub-YutaMouse54_ses-YutaMouse54-160630_behavior+ecephys.nwb
+2020-10-20T00:53:17-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-20T00:53:17-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-20T00:53:17-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/22/b9/22b9d07beeb24493801f9e96779df177 -> /mnt/backup/dandi/dandisets/000003/sub-YutaMouse54/sub-YutaMouse54_ses-YutaMouse54-160630_behavior+ecephys.nwb
+2020-10-20T00:53:17-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-20T00:54:42-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/22/b9/22b9d07beeb24493801f9e96779df177?versionId=ZUTGcVRXsRT.W5GghoDTaQm.LI91ZSC9 to asset
+2020-10-20T00:54:43-0400 [INFO    ] backups2datalad.py Syncing asset /sub-YutaMouse54/sub-YutaMouse54_ses-YutaMouse54-160701_behavior+ecephys.nwb
+2020-10-20T00:54:43-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-20T00:54:43-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-20T00:54:43-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/98/63/9863649800474fc2a70f0442186810a8 -> /mnt/backup/dandi/dandisets/000003/sub-YutaMouse54/sub-YutaMouse54_ses-YutaMouse54-160701_behavior+ecephys.nwb
+2020-10-20T00:54:43-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-20T00:55:31-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/98/63/9863649800474fc2a70f0442186810a8?versionId=9FCYQIgBqhQvUDHsGyI6k1wN9GZnxzDg to asset
+2020-10-20T00:55:31-0400 [INFO    ] backups2datalad.py Syncing asset /sub-YutaMouse54/sub-YutaMouse54_ses-YutaMouse54-160702_behavior+ecephys.nwb
+2020-10-20T00:55:31-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-20T00:55:31-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-20T00:55:31-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/ca/4a/ca4aca9837284605a9519276cd23d23d -> /mnt/backup/dandi/dandisets/000003/sub-YutaMouse54/sub-YutaMouse54_ses-YutaMouse54-160702_behavior+ecephys.nwb
+2020-10-20T00:55:31-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-20T00:56:55-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/ca/4a/ca4aca9837284605a9519276cd23d23d?versionId=BxZTWYDs0NaDTic.Xay2hcKTzi_fOpiZ to asset
+2020-10-20T00:56:55-0400 [INFO    ] backups2datalad.py Syncing asset /sub-YutaMouse54/sub-YutaMouse54_ses-YutaMouse54b160702_behavior+ecephys.nwb
+2020-10-20T00:56:55-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-20T00:56:55-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-20T00:56:56-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/18/bc/18bc614ee3cb4422bc72dc4953550d6d -> /mnt/backup/dandi/dandisets/000003/sub-YutaMouse54/sub-YutaMouse54_ses-YutaMouse54b160702_behavior+ecephys.nwb
+2020-10-20T00:56:56-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-20T00:58:33-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/18/bc/18bc614ee3cb4422bc72dc4953550d6d?versionId=TO57UFT2_X1EJ1OjdDcfZb8K5eI0HadZ to asset
+2020-10-20T00:58:33-0400 [INFO    ] backups2datalad.py Syncing asset /sub-YutaMouse55/sub-YutaMouse55_ses-YutaMouse55-160906_ecephys.nwb
+2020-10-20T00:58:33-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-20T00:58:34-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-20T00:58:34-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/b5/83/b583b27c94f842d090f580ec1fb8c61c -> /mnt/backup/dandi/dandisets/000003/sub-YutaMouse55/sub-YutaMouse55_ses-YutaMouse55-160906_ecephys.nwb
+2020-10-20T00:58:34-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-20T00:59:23-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/b5/83/b583b27c94f842d090f580ec1fb8c61c?versionId=dy4VCdgWN4akwV.AWN3tRn4H5zYOrv3U to asset
+2020-10-20T00:59:24-0400 [INFO    ] backups2datalad.py Syncing asset /sub-YutaMouse55/sub-YutaMouse55_ses-YutaMouse55-160907_behavior+ecephys.nwb
+2020-10-20T00:59:24-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-20T00:59:24-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-20T00:59:24-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/1a/72/1a7242013dc04bc982b7232a6cd1a2ea -> /mnt/backup/dandi/dandisets/000003/sub-YutaMouse55/sub-YutaMouse55_ses-YutaMouse55-160907_behavior+ecephys.nwb
+2020-10-20T00:59:24-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-20T00:59:58-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/1a/72/1a7242013dc04bc982b7232a6cd1a2ea?versionId=sdTzgvV0Te1Q6ILiiOZvLVOWPJiBaZ55 to asset
+2020-10-20T00:59:59-0400 [INFO    ] backups2datalad.py Syncing asset /sub-YutaMouse55/sub-YutaMouse55_ses-YutaMouse55-160908_behavior+ecephys.nwb
+2020-10-20T00:59:59-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-20T00:59:59-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-20T00:59:59-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/ac/23/ac23cd326509433aadae7a7f639891a1 -> /mnt/backup/dandi/dandisets/000003/sub-YutaMouse55/sub-YutaMouse55_ses-YutaMouse55-160908_behavior+ecephys.nwb
+2020-10-20T00:59:59-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-20T01:00:49-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/ac/23/ac23cd326509433aadae7a7f639891a1?versionId=tf0LEqrWksq.W9E6LZn.NbWbHpIcUJhz to asset
+2020-10-20T01:00:49-0400 [INFO    ] backups2datalad.py Syncing asset /sub-YutaMouse55/sub-YutaMouse55_ses-YutaMouse55-160909_behavior+ecephys.nwb
+2020-10-20T01:00:49-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-20T01:00:50-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-20T01:00:50-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/f4/f5/f4f56ab72f5b47d98c7d09ce7d614a6c -> /mnt/backup/dandi/dandisets/000003/sub-YutaMouse55/sub-YutaMouse55_ses-YutaMouse55-160909_behavior+ecephys.nwb
+2020-10-20T01:00:50-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-20T01:01:41-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/f4/f5/f4f56ab72f5b47d98c7d09ce7d614a6c?versionId=uocHZsZH63F67D2ZTjpdtQBKBfPWZQrE to asset
+2020-10-20T01:01:41-0400 [INFO    ] backups2datalad.py Syncing asset /sub-YutaMouse55/sub-YutaMouse55_ses-YutaMouse55-160910_behavior+ecephys.nwb
+2020-10-20T01:01:41-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-20T01:01:42-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-20T01:01:42-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/c4/1a/c41a0a51fd5542bbbcad4a961fb3f710 -> /mnt/backup/dandi/dandisets/000003/sub-YutaMouse55/sub-YutaMouse55_ses-YutaMouse55-160910_behavior+ecephys.nwb
+2020-10-20T01:01:42-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-20T01:04:19-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/c4/1a/c41a0a51fd5542bbbcad4a961fb3f710?versionId=QFzgw1yl069q1bCbfc81FwUlo135PnDn to asset
+2020-10-20T01:04:19-0400 [INFO    ] backups2datalad.py Syncing asset /sub-YutaMouse55/sub-YutaMouse55_ses-YutaMouse55-160911_behavior+ecephys.nwb
+2020-10-20T01:04:19-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-20T01:04:20-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-20T01:04:20-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/8e/a0/8ea04bb04daa4eb1af189f0df6a10bda -> /mnt/backup/dandi/dandisets/000003/sub-YutaMouse55/sub-YutaMouse55_ses-YutaMouse55-160911_behavior+ecephys.nwb
+2020-10-20T01:04:20-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-20T01:05:17-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/8e/a0/8ea04bb04daa4eb1af189f0df6a10bda?versionId=sJWuwxs4ihm15ZnVEaYAPgwBCvuvlACo to asset
+2020-10-20T01:05:18-0400 [INFO    ] backups2datalad.py Syncing asset /sub-YutaMouse55/sub-YutaMouse55_ses-YutaMouse55b160907_behavior+ecephys.nwb
+2020-10-20T01:05:18-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-20T01:05:18-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-20T01:05:18-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/ec/ee/eceeca25d10b41a6afb4aa6219693378 -> /mnt/backup/dandi/dandisets/000003/sub-YutaMouse55/sub-YutaMouse55_ses-YutaMouse55b160907_behavior+ecephys.nwb
+2020-10-20T01:05:18-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-20T01:06:17-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/ec/ee/eceeca25d10b41a6afb4aa6219693378?versionId=SaV8wHhAaDTLRI4MGSNJJ6p0sNlRXYQM to asset
+2020-10-20T01:06:18-0400 [INFO    ] backups2datalad.py Syncing asset /sub-YutaMouse56/sub-YutaMouse56_ses-YutaMouse56-160911_behavior+ecephys.nwb
+2020-10-20T01:06:18-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-20T01:06:18-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-20T01:06:18-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/f2/48/f248265e56164aaba59f84837321446a -> /mnt/backup/dandi/dandisets/000003/sub-YutaMouse56/sub-YutaMouse56_ses-YutaMouse56-160911_behavior+ecephys.nwb
+2020-10-20T01:06:18-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-20T01:07:55-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/f2/48/f248265e56164aaba59f84837321446a?versionId=x.l.gXthhIdP5zGf4pumzlx54K66I43q to asset
+2020-10-20T01:07:55-0400 [INFO    ] backups2datalad.py Syncing asset /sub-YutaMouse56/sub-YutaMouse56_ses-YutaMouse56-160912_behavior+ecephys.nwb
+2020-10-20T01:07:55-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-20T01:07:56-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-20T01:07:56-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/ba/7e/ba7ed221aad141e6b73ba27005d38fb2 -> /mnt/backup/dandi/dandisets/000003/sub-YutaMouse56/sub-YutaMouse56_ses-YutaMouse56-160912_behavior+ecephys.nwb
+2020-10-20T01:07:56-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-20T01:08:54-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/ba/7e/ba7ed221aad141e6b73ba27005d38fb2?versionId=50U9hx4TkeMYYXiUCkTubH2sSdCuSwBU to asset
+2020-10-20T01:08:55-0400 [INFO    ] backups2datalad.py Syncing asset /sub-YutaMouse56/sub-YutaMouse56_ses-YutaMouse56-160913_behavior+ecephys.nwb
+2020-10-20T01:08:55-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-20T01:08:55-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-20T01:08:55-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/7f/e6/7fe6b4122c2e45aba965c02c7cab7a0f -> /mnt/backup/dandi/dandisets/000003/sub-YutaMouse56/sub-YutaMouse56_ses-YutaMouse56-160913_behavior+ecephys.nwb
+2020-10-20T01:08:55-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-20T01:10:40-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/7f/e6/7fe6b4122c2e45aba965c02c7cab7a0f?versionId=lJWUjzERnByRBcmnW6jo40nZ_FTRsu89 to asset
+2020-10-20T01:10:40-0400 [INFO    ] backups2datalad.py Syncing asset /sub-YutaMouse56/sub-YutaMouse56_ses-YutaMouse56-160914_behavior+ecephys.nwb
+2020-10-20T01:10:40-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-20T01:10:41-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-20T01:10:41-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/f7/60/f760ca5a8e5a471a889f4a7cb8ec0cc4 -> /mnt/backup/dandi/dandisets/000003/sub-YutaMouse56/sub-YutaMouse56_ses-YutaMouse56-160914_behavior+ecephys.nwb
+2020-10-20T01:10:41-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-20T01:12:01-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/f7/60/f760ca5a8e5a471a889f4a7cb8ec0cc4?versionId=DpuSQuAwIrw4Lfv.E1hNerntoMjuBdvf to asset
+2020-10-20T01:12:02-0400 [INFO    ] backups2datalad.py Syncing asset /sub-YutaMouse56/sub-YutaMouse56_ses-YutaMouse56-160915_behavior+ecephys.nwb
+2020-10-20T01:12:02-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-20T01:12:02-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-20T01:12:02-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/c2/09/c2091f1a66ba45c68c9c455c17954547 -> /mnt/backup/dandi/dandisets/000003/sub-YutaMouse56/sub-YutaMouse56_ses-YutaMouse56-160915_behavior+ecephys.nwb
+2020-10-20T01:12:02-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-20T01:12:42-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/c2/09/c2091f1a66ba45c68c9c455c17954547?versionId=V26GcDap145rG5o13pI74ZJJdeYrjVuw to asset
+2020-10-20T01:12:42-0400 [INFO    ] backups2datalad.py Syncing asset /sub-YutaMouse56/sub-YutaMouse56_ses-YutaMouse56-160916_behavior+ecephys.nwb
+2020-10-20T01:12:42-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-20T01:12:42-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-20T01:12:42-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/c1/1b/c11b94d165b040ae98efe45e81172d31 -> /mnt/backup/dandi/dandisets/000003/sub-YutaMouse56/sub-YutaMouse56_ses-YutaMouse56-160916_behavior+ecephys.nwb
+2020-10-20T01:12:42-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-20T01:14:16-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/c1/1b/c11b94d165b040ae98efe45e81172d31?versionId=rBGgVC1OIC3aAPSeL2B3274jgLygYA0E to asset
+2020-10-20T01:14:17-0400 [INFO    ] backups2datalad.py Syncing asset /sub-YutaMouse56/sub-YutaMouse56_ses-YutaMouse56b160913_behavior+ecephys.nwb
+2020-10-20T01:14:17-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-20T01:14:17-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-20T01:14:17-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/f6/4d/f64d5686716e4a79a56c30b9736141d1 -> /mnt/backup/dandi/dandisets/000003/sub-YutaMouse56/sub-YutaMouse56_ses-YutaMouse56b160913_behavior+ecephys.nwb
+2020-10-20T01:14:17-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-20T01:15:08-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/f6/4d/f64d5686716e4a79a56c30b9736141d1?versionId=ER9Qa9PX50nJ8pj5MxbtWjzFWto4RYba to asset
+2020-10-20T01:15:08-0400 [INFO    ] backups2datalad.py Syncing asset /sub-YutaMouse56/sub-YutaMouse56_ses-YutaMouse56b160914_behavior+ecephys.nwb
+2020-10-20T01:15:08-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-20T01:15:08-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-20T01:15:08-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/24/c4/24c4ab28a9d24e0e9778a3ed3b75e37b -> /mnt/backup/dandi/dandisets/000003/sub-YutaMouse56/sub-YutaMouse56_ses-YutaMouse56b160914_behavior+ecephys.nwb
+2020-10-20T01:15:08-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-20T01:16:29-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/24/c4/24c4ab28a9d24e0e9778a3ed3b75e37b?versionId=P8MZBhXOoUjJ8CQrmwAmJNihFPWIh6sp to asset
+2020-10-20T01:16:30-0400 [INFO    ] backups2datalad.py Syncing asset /sub-YutaMouse56/sub-YutaMouse56_ses-YutaMouse56b160915_behavior+ecephys.nwb
+2020-10-20T01:16:30-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-20T01:16:30-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-20T01:16:30-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/86/52/86527da906684d32850c9d61487aa59f -> /mnt/backup/dandi/dandisets/000003/sub-YutaMouse56/sub-YutaMouse56_ses-YutaMouse56b160915_behavior+ecephys.nwb
+2020-10-20T01:16:30-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-20T01:17:39-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/86/52/86527da906684d32850c9d61487aa59f?versionId=fDe8yHwfW8AiATMury4wPY7WY.Qu1_kk to asset
+2020-10-20T01:17:39-0400 [INFO    ] backups2datalad.py Syncing asset /sub-YutaMouse57/sub-YutaMouse57_ses-YutaMouse57-161004_behavior+ecephys.nwb
+2020-10-20T01:17:39-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-20T01:17:40-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-20T01:17:40-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/8b/9b/8b9bc47b4d984067862c5d338d789e86 -> /mnt/backup/dandi/dandisets/000003/sub-YutaMouse57/sub-YutaMouse57_ses-YutaMouse57-161004_behavior+ecephys.nwb
+2020-10-20T01:17:40-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-20T01:18:11-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/8b/9b/8b9bc47b4d984067862c5d338d789e86?versionId=45D5.JgIxr1Sas3FPW7sZmvjzQBIrq5I to asset
+2020-10-20T01:18:12-0400 [INFO    ] backups2datalad.py Syncing asset /sub-YutaMouse57/sub-YutaMouse57_ses-YutaMouse57-161006_behavior+ecephys.nwb
+2020-10-20T01:18:12-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-20T01:18:12-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-20T01:18:12-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/3d/33/3d33ba16067d4b7f8fb83766aa95c288 -> /mnt/backup/dandi/dandisets/000003/sub-YutaMouse57/sub-YutaMouse57_ses-YutaMouse57-161006_behavior+ecephys.nwb
+2020-10-20T01:18:12-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-20T01:19:36-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/3d/33/3d33ba16067d4b7f8fb83766aa95c288?versionId=7VnQbwqrqv6z4LY.4_m5ImFkDb91sauL to asset
+2020-10-20T01:19:37-0400 [INFO    ] backups2datalad.py Syncing asset /sub-YutaMouse57/sub-YutaMouse57_ses-YutaMouse57-161007_behavior+ecephys.nwb
+2020-10-20T01:19:37-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-20T01:19:37-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-20T01:19:37-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/f4/4a/f44a0c70ca9644c9acf895b8aeee014e -> /mnt/backup/dandi/dandisets/000003/sub-YutaMouse57/sub-YutaMouse57_ses-YutaMouse57-161007_behavior+ecephys.nwb
+2020-10-20T01:19:37-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-20T01:22:23-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/f4/4a/f44a0c70ca9644c9acf895b8aeee014e?versionId=aTuTXgCk3NLYl4b0R4HrjS1mEg.kyDWz to asset
+2020-10-20T01:22:23-0400 [INFO    ] backups2datalad.py Syncing asset /sub-YutaMouse57/sub-YutaMouse57_ses-YutaMouse57-161010_behavior+ecephys.nwb
+2020-10-20T01:22:23-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-20T01:22:24-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-20T01:22:24-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/2d/3d/2d3dcef189174919ac64057260ca1c6d -> /mnt/backup/dandi/dandisets/000003/sub-YutaMouse57/sub-YutaMouse57_ses-YutaMouse57-161010_behavior+ecephys.nwb
+2020-10-20T01:22:24-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-20T01:23:27-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/2d/3d/2d3dcef189174919ac64057260ca1c6d?versionId=SSx3ZvED0UIm9ZS1_uCSDXxqVmHUTZg7 to asset
+2020-10-20T01:23:28-0400 [INFO    ] backups2datalad.py Syncing asset /sub-YutaMouse57/sub-YutaMouse57_ses-YutaMouse57-161011_behavior+ecephys.nwb
+2020-10-20T01:23:28-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-20T01:23:28-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-20T01:23:28-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/2d/ab/2dab2f7a06c54298870a469099ddcad9 -> /mnt/backup/dandi/dandisets/000003/sub-YutaMouse57/sub-YutaMouse57_ses-YutaMouse57-161011_behavior+ecephys.nwb
+2020-10-20T01:23:28-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-20T01:24:42-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/2d/ab/2dab2f7a06c54298870a469099ddcad9?versionId=G.G8RQb8FdFPAl._RdP5Lseyv_Q_5q4. to asset
+2020-10-20T01:24:43-0400 [INFO    ] backups2datalad.py Syncing asset /sub-YutaMouse57/sub-YutaMouse57_ses-YutaMouse57-161013_behavior+ecephys.nwb
+2020-10-20T01:24:43-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-20T01:24:43-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-20T01:24:43-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/88/c8/88c8c20e161841478683329199720624 -> /mnt/backup/dandi/dandisets/000003/sub-YutaMouse57/sub-YutaMouse57_ses-YutaMouse57-161013_behavior+ecephys.nwb
+2020-10-20T01:24:43-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-20T01:25:49-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/88/c8/88c8c20e161841478683329199720624?versionId=vEfbdwcSGhtbRPvz4j_q9.HV5uHfTNPP to asset
+2020-10-20T01:25:50-0400 [INFO    ] backups2datalad.py Syncing asset /sub-YutaMouse57/sub-YutaMouse57_ses-YutaMouse57-161014_behavior+ecephys.nwb
+2020-10-20T01:25:50-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-20T01:25:50-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-20T01:25:50-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/1e/9b/1e9bdcf50b9d4dfdbae66f89d3ab0971 -> /mnt/backup/dandi/dandisets/000003/sub-YutaMouse57/sub-YutaMouse57_ses-YutaMouse57-161014_behavior+ecephys.nwb
+2020-10-20T01:25:50-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-20T01:26:38-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/1e/9b/1e9bdcf50b9d4dfdbae66f89d3ab0971?versionId=0fApS42ZgI2ZXPEHe02yDhEaL4fA9DvL to asset
+2020-10-20T01:26:38-0400 [INFO    ] backups2datalad.py Syncing asset /sub-YutaMouse57/sub-YutaMouse57_ses-YutaMouse57-161016_behavior+ecephys.nwb
+2020-10-20T01:26:38-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-20T01:26:38-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-20T01:26:38-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/5b/f7/5bf790d998aa449a98bec2f3d24869be -> /mnt/backup/dandi/dandisets/000003/sub-YutaMouse57/sub-YutaMouse57_ses-YutaMouse57-161016_behavior+ecephys.nwb
+2020-10-20T01:26:38-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-20T01:27:16-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/5b/f7/5bf790d998aa449a98bec2f3d24869be?versionId=2PY35bG1gP9fc.bp_oziqi0AS6lcKjol to asset
+2020-10-20T01:27:16-0400 [INFO    ] backups2datalad.py Commiting changes
