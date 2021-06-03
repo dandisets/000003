@@ -32,7 +32,14 @@ contributor:
   - dandi:Author
   - dandi:FormalAnalysis
   schemaKey: Person
-- affiliation: []
+- affiliation:
+  - contactPoint: []
+    identifier: https://ror.org/005dvqh91
+    includeInCitation: false
+    name: New York University Langone Medical Center
+    roleName: []
+    schemaKey: Organization
+    url: http://nyulangone.org/
   identifier: 0000-0002-3100-4800
   includeInCitation: true
   name: Buzsaki, Gyorgy
@@ -46,7 +53,6 @@ ethicsApproval: []
 id: 000003/draft
 identifier: DANDI:000003
 keywords:
-- alpha rhyth
 - cell types
 - cortical layers
 - current source density
@@ -55,6 +61,7 @@ keywords:
 - oscillations
 - primary visual cortex
 - sleep
+- alpha rhythm
 license:
 - spdx:CC-BY-4.0
 manifestLocation: []
@@ -66,6 +73,7 @@ relatedResource:
   relation: dandi:IsDescribedBy
   url: https://doi.org/10.1016/j.neuron.2016.12.011
 repository: https://dandiarchive.org/
+schemaKey: Dandiset
 schemaVersion: 0.3.0
 studyTarget: []
 url: https://dandiarchive.org/000003/draft
