@@ -11,7 +11,7 @@ access:
     email: petersen.peter@gmail.com
     schemaKey: ContactPoint
   status: dandi:Open
-citation: 'Senzai, Yuta; Fernandez-Ruiz, Antonio; Buzsaki, Gyorgy (2021) Layer-Specific
+citation: 'Senzai, Yuta; Fernandez-Ruiz, Antonio; Buzsáki, György (2021) Layer-Specific
   Physiological Features and Interlaminar Interactions in the Primary Visual Cortex
   of the Mouse. Online: https://dandiarchive.org/000003/draft'
 contributor:
@@ -42,7 +42,7 @@ contributor:
     url: http://nyulangone.org/
   identifier: 0000-0002-3100-4800
   includeInCitation: true
-  name: Buzsaki, Gyorgy
+  name: Buzsáki, György
   roleName:
   - dandi:Author
   schemaKey: Person
