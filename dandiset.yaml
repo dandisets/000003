@@ -3,13 +3,13 @@
 # and obtained from the dandiarchive.
 '@context': https://raw.githubusercontent.com/dandi/schema/master/releases/0.4.4/context.json
 about:
-- identifier: UBERON:0002436
-  name: primary visual cortex
+- name: hippocampus
   schemaKey: Anatomy
 access:
 - contactPoint:
     email: petersen.peter@gmail.com
     schemaKey: ContactPoint
+  schemaKey: AccessRequirements
   status: dandi:OpenAccess
 assetsSummary:
   approach:
@@ -46,9 +46,9 @@ assetsSummary:
   - Units
   - Position
   - ElectricalSeries
-citation: Senzai, Yuta; Fernandez-Ruiz, Antonio; Buzsáki, György (2021) Layer-Specific
-  Physiological Features and Interlaminar Interactions in the Primary Visual Cortex
-  of the Mouse (Version draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000003/draft
+citation: Senzai, Yuta; Fernandez-Ruiz, Antonio; Buzsáki, György (2021) Physiological
+  Properties and Behavioral Correlates of Hippocampal Granule Cells and Mossy Cells
+  (Version draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000003/draft
 contributor:
 - affiliation: []
   includeInCitation: true
@@ -68,44 +68,40 @@ contributor:
   - dcite:FormalAnalysis
   schemaKey: Person
 - affiliation:
-  - contactPoint: []
-    identifier: https://ror.org/005dvqh91
-    includeInCitation: false
+  - identifier: https://ror.org/005dvqh91
     name: New York University Langone Medical Center
-    roleName: []
     schemaKey: Affiliation
-    url: http://nyulangone.org/
   identifier: 0000-0002-3100-4800
   includeInCitation: true
   name: Buzsáki, György
   roleName:
   - dcite:Author
   schemaKey: Person
-description: Data from "Layer-Specific Physiological Features and Interlaminar Interactions
-  in the Primary Visual Cortex of the Mouse" Senzai, Fernandez-Ruiz, Buzsaki, Neuron
-  2019. Electrophysiology recordings of hippocampus during theta maze exploration.
+description: Data from "Physiological Properties and Behavioral Correlates of Hippocampal
+  Granule Cells and Mossy Cells" Senzai, Buzsaki, Neuron 2017. Electrophysiology recordings
+  of hippocampus during theta maze exploration.
 ethicsApproval: []
 id: DANDI:000003/draft
 identifier: DANDI:000003
 keywords:
 - cell types
-- cortical layers
 - current source density
 - laminar recordings
-- optogenetics
 - oscillations
-- primary visual cortex
-- sleep
-- alpha rhythm
+- mossy cells
+- granule cells
+- optogenetics
 license:
 - spdx:CC-BY-4.0
-manifestLocation: []
-name: Layer-Specific Physiological Features and Interlaminar Interactions in the Primary
-  Visual Cortex of the Mouse
+manifestLocation:
+- https://api.dandiarchive.org/api/dandisets/000003/versions/draft/assets/
+name: Physiological Properties and Behavioral Correlates of Hippocampal Granule Cells
+  and Mossy Cells
 protocol: []
 relatedResource:
 - identifier: doi:10.1016/j.neuron.2016.12.011
   relation: dcite:IsDescribedBy
+  schemaKey: Resource
   url: https://doi.org/10.1016/j.neuron.2016.12.011
 repository: https://dandiarchive.org/
 schemaKey: Dandiset
