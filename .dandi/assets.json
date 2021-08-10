@@ -1082,7 +1082,9 @@
 "digest":
 {
 "dandi:dandi-etag":
-"be4ba04a886d7de3e76033c35983f4b8-292"
+"be4ba04a886d7de3e76033c35983f4b8-292",
+"dandi:sha2-256":
+"c2c71c26b433c6cd317822d5bf6484f9fa0dce07293a9eecc46f3dfafbb84125"
 },
 "encodingFormat":
 "application/x-nwb",
@@ -1209,7 +1211,7 @@
 ]
 },
 "modified":
-"2021-08-05T18:44:12.707239+00:00",
+"2021-08-10T06:19:54.278387+00:00",
 "path":
 "sub-YutaMouse33/sub-YutaMouse33_ses-YutaMouse33-150219_behavior+ecephys.nwb",
 "size":
@@ -4302,7 +4304,9 @@
 "digest":
 {
 "dandi:dandi-etag":
-"815c43f6aca846a2386408e749e3e7f7-2393"
+"815c43f6aca846a2386408e749e3e7f7-2393",
+"dandi:sha2-256":
+"f07681c40d0aae99f82836605115290927a25971fcada11b6d502e0e48a73f13"
 },
 "encodingFormat":
 "application/x-nwb",
@@ -4429,7 +4433,7 @@
 ]
 },
 "modified":
-"2021-08-05T18:44:13.427354+00:00",
+"2021-08-10T06:20:14.555934+00:00",
 "path":
 "sub-YutaMouse33/sub-YutaMouse33_ses-YutaMouse33-150222_behavior+ecephys.nwb",
 "size":
@@ -6226,7 +6230,9 @@
 "digest":
 {
 "dandi:dandi-etag":
-"2d27ea4ef580c45bf1e17dd98643edca-810"
+"2d27ea4ef580c45bf1e17dd98643edca-810",
+"dandi:sha2-256":
+"6d1d43c84e7a09d87fd55b91f3bc293aaff84c80984397eb3e87484fe7cda8ad"
 },
 "encodingFormat":
 "application/x-nwb",
@@ -6353,7 +6359,7 @@
 ]
 },
 "modified":
-"2021-08-05T18:44:13.881849+00:00",
+"2021-08-10T06:20:00.560851+00:00",
 "path":
 "sub-YutaMouse41/sub-YutaMouse41_ses-YutaMouse41-150902_behavior+ecephys.nwb",
 "size":
@@ -8102,7 +8108,9 @@
 "digest":
 {
 "dandi:dandi-etag":
-"11cc750cde7b54f727abe3c06ac826b4-954"
+"11cc750cde7b54f727abe3c06ac826b4-954",
+"dandi:sha2-256":
+"e3f318da488aab5fd32215d871a07787a9330b9cf8f4a94cded8de35b745fc74"
 },
 "encodingFormat":
 "application/x-nwb",
@@ -8229,7 +8237,7 @@
 ]
 },
 "modified":
-"2021-08-05T18:44:14.325354+00:00",
+"2021-08-10T06:20:02.814530+00:00",
 "path":
 "sub-YutaMouse42/sub-YutaMouse42_ses-YutaMouse42-151108_behavior+ecephys.nwb",
 "size":
@@ -9150,7 +9158,9 @@
 "digest":
 {
 "dandi:dandi-etag":
-"867543ae5e059d11b8a78c3d41793279-1023"
+"867543ae5e059d11b8a78c3d41793279-1023",
+"dandi:sha2-256":
+"ea074ade8ff6895dc8fe0b3ef2b1c8747b78a16f6186818b57fe6f5257071efa"
 },
 "encodingFormat":
 "application/x-nwb",
@@ -9265,7 +9275,7 @@
 ]
 },
 "modified":
-"2021-08-05T18:44:14.593137+00:00",
+"2021-08-10T06:20:03.977581+00:00",
 "path":
 "sub-YutaMouse42/sub-YutaMouse42_ses-YutaMouse42-151110_ecephys.nwb",
 "size":
@@ -12220,7 +12230,9 @@
 "digest":
 {
 "dandi:dandi-etag":
-"4554a57224e7c14367aad9bdb151c249-176"
+"4554a57224e7c14367aad9bdb151c249-176",
+"dandi:sha2-256":
+"be914a66068ffefd040aec380136e80ee48d12626a3020f8399a6e4200489a5c"
 },
 "encodingFormat":
 "application/x-nwb",
@@ -12338,7 +12350,7 @@
 ]
 },
 "modified":
-"2021-08-05T18:44:15.308135+00:00",
+"2021-08-10T06:19:51.911441+00:00",
 "path":
 "sub-YutaMouse55/sub-YutaMouse55_ses-YutaMouse55-160910_behavior+ecephys.nwb",
 "size":
