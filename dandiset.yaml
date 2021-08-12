@@ -49,7 +49,7 @@ assetsSummary:
   - ElectricalSeries
 citation: Senzai, Yuta; Fernandez-Ruiz, Antonio; Buzsáki, György (2021) Physiological
   Properties and Behavioral Correlates of Hippocampal Granule Cells and Mossy Cells
-  (Version draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000003/draft
+  (Version 0.210812.1448) [Data set]. DANDI archive. https://doi.org/10.48324/dandi.000003/0.210812.1448
 contributor:
 - affiliation: []
   includeInCitation: true
@@ -78,11 +78,13 @@ contributor:
   roleName:
   - dcite:Author
   schemaKey: Person
+datePublished: '2021-08-12T14:48:43.199600'
 description: Data from "Physiological Properties and Behavioral Correlates of Hippocampal
   Granule Cells and Mossy Cells" Senzai, Buzsaki, Neuron 2017. Electrophysiology recordings
   of hippocampus during theta maze exploration.
+doi: 10.48324/dandi.000003/0.210812.1448
 ethicsApproval: []
-id: DANDI:000003/draft
+id: DANDI:000003/0.210812.1448
 identifier: DANDI:000003
 keywords:
 - cell types
@@ -95,10 +97,22 @@ keywords:
 license:
 - spdx:CC-BY-4.0
 manifestLocation:
-- https://api.dandiarchive.org/api/dandisets/000003/versions/draft/assets/
+- https://dandiarchive.s3.amazonaws.com/dandisets/000003/0.210812.1448/assets.yaml
 name: Physiological Properties and Behavioral Correlates of Hippocampal Granule Cells
   and Mossy Cells
 protocol: []
+publishedBy:
+  endDate: '2021-08-12T14:48:43.199600'
+  id: urn:uuid:6dfd1ae5-c5ea-443a-ad11-d4ac423261af
+  name: DANDI publish
+  schemaKey: PublishActivity
+  startDate: '2021-08-12T14:48:43.199600'
+  wasAssociatedWith:
+  - id: urn:uuid:53ec67cd-4e87-42f9-9c2c-962b46392963
+    identifier: RRID:SCR_017571
+    name: DANDI API
+    schemaKey: Software
+    version: 0.1.0
 relatedResource:
 - identifier: doi:10.1016/j.neuron.2016.12.011
   relation: dcite:IsDescribedBy
@@ -108,6 +122,6 @@ repository: https://dandiarchive.org/
 schemaKey: Dandiset
 schemaVersion: 0.4.4
 studyTarget: []
-url: https://dandiarchive.org/dandiset/000003/draft
-version: draft
+url: https://dandiarchive.org/dandiset/000003/0.210812.1448
+version: 0.210812.1448
 wasGeneratedBy: []
