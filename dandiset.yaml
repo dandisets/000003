@@ -13,41 +13,10 @@ access:
   schemaKey: AccessRequirements
   status: dandi:OpenAccess
 assetsSummary:
-  approach:
-  - name: electrophysiological approach
-    schemaKey: ApproachType
-  - name: behavioral approach
-    schemaKey: ApproachType
-  dataStandard:
-  - identifier: RRID:SCR_015242
-    name: Neurodata Without Borders (NWB)
-    schemaKey: StandardsType
-  measurementTechnique:
-  - name: signal filtering technique
-    schemaKey: MeasurementTechniqueType
-  - name: fourier analysis technique
-    schemaKey: MeasurementTechniqueType
-  - name: spike sorting technique
-    schemaKey: MeasurementTechniqueType
-  - name: behavioral technique
-    schemaKey: MeasurementTechniqueType
-  - name: multi electrode extracellular electrophysiology recording technique
-    schemaKey: MeasurementTechniqueType
-  numberOfBytes: 2559248010229
-  numberOfFiles: 101
-  numberOfSubjects: 16
+  numberOfBytes: 0
+  numberOfFiles: 0
   schemaKey: AssetsSummary
-  species:
-  - identifier: http://purl.obolibrary.org/obo/NCBITaxon_10090
-    name: House mouse
-    schemaKey: SpeciesType
-  variableMeasured:
-  - DecompositionSeries
-  - LFP
-  - Units
-  - Position
-  - ElectricalSeries
-citation: Senzai, Yuta; Fernandez-Ruiz, Antonio; Buzsáki, György (2022) Physiological
+citation: Senzai, Yuta; Fernandez-Ruiz, Antonio; Buzsáki, György (2023) Physiological
   Properties and Behavioral Correlates of Hippocampal Granule Cells and Mossy Cells
   (Version draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000003/draft
 contributor:
@@ -78,6 +47,12 @@ contributor:
   roleName:
   - dcite:Author
   schemaKey: Person
+- awardNumber: MH107396, NS090583
+  contactPoint: []
+  includeInCitation: false
+  name: National Institutes of Health
+  roleName: []
+  schemaKey: Organization
 dateCreated: '2020-03-15T22:56:55.655000+00:00'
 description: Data from "Physiological Properties and Behavioral Correlates of Hippocampal
   Granule Cells and Mossy Cells" Senzai, Buzsaki, Neuron 2017. Electrophysiology recordings
@@ -107,7 +82,7 @@ relatedResource:
   relation: dcite:IsDescribedBy
   schemaKey: Resource
   url: https://doi.org/10.1016/j.neuron.2016.12.011
-repository: https://dandiarchive.org/
+repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.0
 studyTarget: []
