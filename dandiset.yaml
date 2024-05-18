@@ -139,7 +139,6 @@ relatedResource:
   name: Physiological Properties and Behavioral Correlates of Hippocampal Granule
     Cells and Mossy Cells
   relation: dcite:IsDescribedBy
-  repository: Neuron
   resourceType: dcite:JournalArticle
   schemaKey: Resource
   url: https://doi.org/10.1016/j.neuron.2016.12.011
