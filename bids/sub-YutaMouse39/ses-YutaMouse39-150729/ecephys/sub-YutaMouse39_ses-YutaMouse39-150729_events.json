@@ -1,0 +1,21 @@
+{
+    "trials": {
+        "Description": "experimental trials"
+    },
+    "epochs": {
+        "Description": "experimental epochs"
+    },
+    "nwb_table": {
+        "nwb_table": {
+            "Description": "The name of the NWB table from which this event was extracted.",
+            "Levels": {
+                "trials": "The 'trials' table in the NWB file.",
+                "epochs": "The 'epochs' table in the NWB file."
+            },
+            "HED": {
+                "trials": "Experimental-trial",
+                "epochs": "Time-block"
+            }
+        }
+    }
+}

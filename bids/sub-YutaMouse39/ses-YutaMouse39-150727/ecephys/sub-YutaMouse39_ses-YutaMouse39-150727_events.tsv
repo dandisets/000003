@@ -1,0 +1,31 @@
+onset	duration	nwb_table	error_run	stim_run	both_visit	condition	tags
+0.0256	682.752	epochs					['EightMazePosition_0']
+15.7256	41.9352	trials	0.0	0.0	0.0	run_right	
+57.6608	96.6096	trials	0.0	0.0	0.0	run_left	
+154.2704	59.65199999999999	trials	0.0	0.0	0.0	run_right	
+213.92239999999998	78.61040000000003	trials	0.0	0.0	0.0	run_left	
+292.5328	96.15519999999998	trials	0.0	0.0	0.0	run_right	
+388.688	51.0976	trials	0.0	0.0	0.0	run_left	
+439.7856	66.52080000000001	trials	0.0	0.0	0.0	run_right	
+506.3064	65.9744	trials	0.0	0.0	0.0	run_left	
+572.2808	68.59039999999993	trials	0.0	0.0	0.0	run_right	
+640.8711999999999	41.928800000000024	trials	0.0	0.0	0.0	run_left	
+8747.2128	1401.676800000001	epochs					['OpenFieldPosition_Old_0']
+10149.9136	1292.9791999999998	epochs					['OpenFieldPosition_Old_Curtain_0']
+11444.0192	1447.0656	epochs					['OpenFieldPosition_New_Curtain_0']
+12892.1088	1376.4863999999998	epochs					['OpenFieldPosition_New_0']
+14269.7984	4363.0592	epochs					['OpenFieldPosition_ExtraLarge_0']
+33419.8016	2404.480000000003	epochs					['EightMazePosition_1']
+33443.3248	141.09919999999693	trials	0.0	0.0	0.0	run_right	
+33584.424	111.97200000000157	trials	0.0	0.0	0.0	run_left	
+33696.396	69.71519999999873	trials	0.0	0.0	0.0	run_right	
+33766.1112	61.119200000001	trials	0.0	0.0	0.0	run_left	
+33827.2304	91.01120000000083	trials	0.0	0.0	0.0	run_right	
+33918.2416	70.73679999999877	trials	0.0	0.0	0.0	run_left	
+33988.9784	84.95599999999831	trials	0.0	0.0	0.0	run_right	
+34073.9344	228.0783999999985	trials	1.0	0.0	0.0	run_left	
+34302.0128	185.25600000000122	trials	1.0	0.0	0.0	run_right	
+34487.2688	306.93840000000637	trials	1.0	0.0	0.0	run_left	
+34794.207200000004	193.48719999999594	trials	1.0	1.0	0.0	run_left	
+34987.6944	297.1840000000011	trials	1.0	1.0	0.0	run_left	
+35284.8784	539.4216000000015	trials	1.0	1.0	0.0	run_left	
