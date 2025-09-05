@@ -1,0 +1,16 @@
+{
+    "epochs": {
+        "Description": "experimental epochs"
+    },
+    "nwb_table": {
+        "nwb_table": {
+            "Description": "The name of the NWB table from which this event was extracted.",
+            "Levels": {
+                "epochs": "The 'epochs' table in the NWB file."
+            },
+            "HED": {
+                "epochs": "Time-block"
+            }
+        }
+    }
+}

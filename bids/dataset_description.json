@@ -1,0 +1,12 @@
+{
+    "Name": "Physiological Properties and Behavioral Correlates of Hippocampal Granule Cells and Mossy Cells",
+    "BIDSVersion": "1.10",
+    "Description": "Data from \"Physiological Properties and Behavioral Correlates of Hippocampal Granule Cells and Mossy Cells\" Senzai, Buzsaki, Neuron 2017. Electrophysiology recordings of hippocampus during theta maze exploration.",
+    "DatasetType": null,
+    "Authors": [
+        "Senzai, Yuta",
+        "Fernandez-Ruiz, Antonio",
+        "Buzs\u00e1ki, Gy\u00f6rgy"
+    ],
+    "License": "CC-BY-4.0"
+}

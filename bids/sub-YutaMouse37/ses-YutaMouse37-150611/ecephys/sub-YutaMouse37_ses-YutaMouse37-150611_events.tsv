@@ -1,0 +1,3 @@
+onset	duration	nwb_table	tags
+8050.816	2793.0624	epochs	['EightMazePosition_0']
+31646.1056	2774.3744000000042	epochs	['EightMazePosition_1']

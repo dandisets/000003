@@ -1,0 +1,4 @@
+onset	duration	nwb_table	tags
+22969.4464	1088.6399999999994	epochs	['OpenFieldPosition_Old_0']
+24404.992	1111.6032000000014	epochs	['OpenFieldPosition_New_0']
+26488.32	1039.8719999999994	epochs	['OpenFieldPosition_Oldlast_0']

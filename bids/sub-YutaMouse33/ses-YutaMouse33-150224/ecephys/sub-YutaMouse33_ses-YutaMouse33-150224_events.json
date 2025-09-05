@@ -1,0 +1,16 @@
+{
+    "trials": {
+        "Description": "experimental trials"
+    },
+    "nwb_table": {
+        "nwb_table": {
+            "Description": "The name of the NWB table from which this event was extracted.",
+            "Levels": {
+                "trials": "The 'trials' table in the NWB file."
+            },
+            "HED": {
+                "trials": "Experimental-trial"
+            }
+        }
+    }
+}
