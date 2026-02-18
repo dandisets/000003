@@ -50,7 +50,7 @@ assetsSummary:
   - ElectricalSeries
 citation: Senzai, Yuta; Fernandez-Ruiz, Antonio; Buzsáki, György (2026) Physiological
   Properties and Behavioral Correlates of Hippocampal Granule Cells and Mossy Cells
-  (Version draft) [Data set]. DANDI Archive. https://dandiarchive.org/dandiset/000003/draft
+  (Version 0.260218.2052) [Data set]. DANDI Archive. https://doi.org/10.48324/dandi.000003/0.260218.2052
 contributor:
 - affiliation:
   - identifier: https://ror.org/005dvqh91
@@ -130,11 +130,13 @@ contributor:
   - dcite:DataCurator
   schemaKey: Person
 dateCreated: '2020-03-15T22:56:55.655000+00:00'
+datePublished: '2026-02-18T20:52:23.681896+00:00'
 description: Data from "Physiological Properties and Behavioral Correlates of Hippocampal
   Granule Cells and Mossy Cells" Senzai, Buzsaki, Neuron 2017. Electrophysiology recordings
   of hippocampus during theta maze exploration.
+doi: 10.48324/dandi.000003/0.260218.2052
 ethicsApproval: []
-id: DANDI:000003/draft
+id: DANDI:000003/0.260218.2052
 identifier: DANDI:000003
 keywords:
 - cell types
@@ -153,9 +155,21 @@ keywords:
 license:
 - spdx:CC-BY-4.0
 manifestLocation:
-- https://api.dandiarchive.org/api/dandisets/000003/versions/draft/assets/
+- https://dandiarchive.s3.amazonaws.com/dandisets/000003/0.260218.2052/assets.yaml
 name: Physiological Properties and Behavioral Correlates of Hippocampal Granule Cells
   and Mossy Cells
+publishedBy:
+  endDate: '2026-02-18T20:52:23.681896+00:00'
+  id: urn:uuid:2aa95bab-dea6-4a6f-af5f-c155f8d33df0
+  name: DANDI publish
+  schemaKey: PublishActivity
+  startDate: '2026-02-18T20:52:23.681896+00:00'
+  wasAssociatedWith:
+  - id: urn:uuid:00f583ae-dbad-42da-9829-5d1238ef39fe
+    identifier: RRID:SCR_017571
+    name: DANDI API
+    schemaKey: Software
+    version: 0.1.0
 relatedResource:
 - identifier: doi:10.1016/j.neuron.2016.12.011
   name: Physiological Properties and Behavioral Correlates of Hippocampal Granule
@@ -167,6 +181,6 @@ relatedResource:
 repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.0
-url: https://dandiarchive.org/dandiset/000003/draft
-version: draft
+url: https://dandiarchive.org/dandiset/000003/0.260218.2052
+version: 0.260218.2052
 wasGeneratedBy: []
