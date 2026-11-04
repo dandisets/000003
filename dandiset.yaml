@@ -69,7 +69,13 @@ contributor:
   - dcite:DataCollector
   - dcite:FormalAnalysis
   schemaKey: Person
-- affiliation: []
+- affiliation:
+  - identifier: https://ror.org/005dvqh91
+    name: New York University Langone Medical Center
+    schemaKey: Affiliation
+  - identifier: https://ror.org/0190ak572
+    name: New York University
+    schemaKey: Affiliation
   identifier: 0000-0001-8481-0796
   includeInCitation: true
   name: Fernandez-Ruiz, Antonio
