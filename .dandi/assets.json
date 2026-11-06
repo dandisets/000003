@@ -5223,15 +5223,15 @@
 },
 {
 "asset_id":
-"ea301908-4777-4af5-9a8b-b866a212a935",
+"d7f9c3ba-7d5d-4f9e-b707-ff00362432b6",
 "blob":
-"be4594ef-f0db-43b4-b4fa-823927ee3b40",
+"a9efdb96-8d41-4c6d-861f-6f4f5ae06ba4",
 "created":
-"2021-07-01T20:14:25.548154Z",
+"2026-11-06T08:00:30.603026Z",
 "metadata":
 {
 "@context":
-"https://raw.githubusercontent.com/dandi/schema/master/releases/0.4.4/context.json",
+"https://raw.githubusercontent.com/dandi/schema/master/releases/0.7.0/context.json",
 "access":
 [
 {
@@ -5248,39 +5248,76 @@
 "electrophysiological approach",
 "schemaKey":
 "ApproachType"
+},
+{
+"name":
+"behavioral approach",
+"schemaKey":
+"ApproachType"
 }
 ],
 "blobDateModified":
-"2021-01-24T12:24:59-05:00",
+"2026-11-06T00:06:16.488291-05:00",
 "contentSize":
-11065549983,
+6722528409,
 "contentUrl":
 [
-"https://api.dandiarchive.org/api/assets/ea301908-4777-4af5-9a8b-b866a212a935/download/",
-"https://dandiarchive.s3.amazonaws.com/blobs/be4/594/be4594ef-f0db-43b4-b4fa-823927ee3b40"
+"https://api.dandiarchive.org/api/assets/d7f9c3ba-7d5d-4f9e-b707-ff00362432b6/download/",
+"https://dandiarchive.s3.amazonaws.com/blobs/a9e/fdb/a9efdb96-8d41-4c6d-861f-6f4f5ae06ba4"
 ],
 "dateModified":
-"2021-07-01T16:14:25.400431-04:00",
-"datePublished":
-"2021-08-12T14:48:45.052587",
+"2026-11-06T02:42:56.681980-05:00",
 "digest":
 {
 "dandi:dandi-etag":
-"f42ca2efb055ce720fb2ea361e323149-165",
+"3d35dfe908c1df272d55edff33b6a7ac-101",
 "dandi:sha2-256":
-"f60aec1a48851270200316f876b7a4090d5cd235c1e4085ad376fc89935bd0d5"
+"917e18e3a59b26242682b8ac8ddb8f3c2870f6a06bc127004b61204ed9ae8171"
 },
 "encodingFormat":
 "application/x-nwb",
 "id":
-"dandiasset:ea301908-4777-4af5-9a8b-b866a212a935",
+"dandiasset:d7f9c3ba-7d5d-4f9e-b707-ff00362432b6",
 "identifier":
-"ea301908-4777-4af5-9a8b-b866a212a935",
+"d7f9c3ba-7d5d-4f9e-b707-ff00362432b6",
+"keywords":
+[
+"dentate gyrus",
+"granule cells",
+"mossy cells",
+"CA3",
+"optogenetic tagging",
+"silicon probe"
+],
 "measurementTechnique":
 [
 {
 "name":
 "signal filtering technique",
+"schemaKey":
+"MeasurementTechniqueType"
+},
+{
+"name":
+"behavioral technique",
+"schemaKey":
+"MeasurementTechniqueType"
+},
+{
+"name":
+"multi electrode extracellular electrophysiology recording technique",
+"schemaKey":
+"MeasurementTechniqueType"
+},
+{
+"name":
+"analytical technique",
+"schemaKey":
+"MeasurementTechniqueType"
+},
+{
+"name":
+"spike sorting technique",
 "schemaKey":
 "MeasurementTechniqueType"
 },
@@ -5292,55 +5329,30 @@
 },
 {
 "name":
-"spike sorting technique",
+"surgical technique",
 "schemaKey":
 "MeasurementTechniqueType"
 }
 ],
 "path":
 "sub-YutaMouse39/sub-YutaMouse39_ses-YutaMouse39-150727_behavior+ecephys.nwb",
-"publishedBy":
-{
-"endDate":
-"2021-08-12T14:48:45.052587",
-"id":
-"urn:uuid:e6fac76b-a9d9-4ab9-98e0-02861b44f11b",
-"name":
-"DANDI publish",
-"schemaKey":
-"PublishActivity",
-"startDate":
-"2021-08-12T14:48:45.052587",
-"wasAssociatedWith":
+"relatedResource":
 [
 {
-"id":
-"urn:uuid:7cdc1b57-dd84-438f-8f46-24be2807366d",
 "identifier":
-"RRID:SCR_017571",
-"name":
-"DANDI API",
+"https://doi.org/10.1016/j.neuron.2016.12.011",
+"relation":
+"dcite:IsDescribedBy",
 "schemaKey":
-"Software",
-"version":
-"0.1.0"
+"Resource"
 }
-]
-},
-"repository":
-"https://dandiarchive.org/",
+],
 "schemaKey":
 "Asset",
 "schemaVersion":
-"0.4.4",
+"0.7.0",
 "variableMeasured":
 [
-{
-"schemaKey":
-"PropertyValue",
-"value":
-"DecompositionSeries"
-},
 {
 "schemaKey":
 "PropertyValue",
@@ -5351,7 +5363,43 @@
 "schemaKey":
 "PropertyValue",
 "value":
+"ProcessingModule"
+},
+{
+"schemaKey":
+"PropertyValue",
+"value":
+"DecompositionSeries"
+},
+{
+"schemaKey":
+"PropertyValue",
+"value":
+"ElectricalSeries"
+},
+{
+"schemaKey":
+"PropertyValue",
+"value":
+"ElectrodeGroup"
+},
+{
+"schemaKey":
+"PropertyValue",
+"value":
 "Units"
+},
+{
+"schemaKey":
+"PropertyValue",
+"value":
+"Position"
+},
+{
+"schemaKey":
+"PropertyValue",
+"value":
+"SpatialSeries"
 }
 ],
 "wasAttributedTo":
@@ -5364,7 +5412,14 @@
 "unitText":
 "ISO-8601 duration",
 "value":
-"P341DT0H0M0S"
+"/",
+"valueReference":
+{
+"schemaKey":
+"PropertyValue",
+"value":
+"dandi:BirthReference"
+}
 },
 "genotype":
 "SST-Cre",
@@ -5372,12 +5427,21 @@
 "YutaMouse39",
 "schemaKey":
 "Participant",
+"sex":
+{
+"identifier":
+"http://purl.obolibrary.org/obo/PATO_0000384",
+"name":
+"Male",
+"schemaKey":
+"SexType"
+},
 "species":
 {
 "identifier":
 "http://purl.obolibrary.org/obo/NCBITaxon_10090",
 "name":
-"House mouse",
+"Mus musculus - House mouse",
 "schemaKey":
 "SpeciesType"
 }
@@ -5387,23 +5451,31 @@
 [
 {
 "description":
-"Mouse in open exploration and theta maze.",
+"Recording in the home cage, the circular T-maze or an open field, from a silicon probe in the dentate gyrus and CA3.",
+"endDate":
+"2015-07-27T09:57:22.091400-04:00",
 "identifier":
 "YutaMouse39-150727",
 "name":
 "YutaMouse39-150727",
 "schemaKey":
-"Session"
+"Session",
+"startDate":
+"2015-07-27T00:00:00-04:00"
 },
 {
 "description":
 "Metadata generated by DANDI cli",
+"endDate":
+"2026-11-06T02:42:56.681969-05:00",
 "id":
-"urn:uuid:b95dc7b9-8c48-48c9-8f8f-adb00d0f72d1",
+"urn:uuid:29148649-a52f-4fa7-8092-f771e75f3f88",
 "name":
 "Metadata generation",
 "schemaKey":
 "Activity",
+"startDate":
+"2026-11-06T02:42:56.393873-05:00",
 "wasAssociatedWith":
 [
 {
@@ -5416,18 +5488,18 @@
 "url":
 "https://github.com/dandi/dandi-cli",
 "version":
-"0.22.0"
+"0.81.0"
 }
 ]
 }
 ]
 },
 "modified":
-"2021-08-05T18:44:13.094809Z",
+"2026-11-06T08:00:30.603046Z",
 "path":
 "sub-YutaMouse39/sub-YutaMouse39_ses-YutaMouse39-150727_behavior+ecephys.nwb",
 "size":
-11065549983
+6722528409
 },
 {
 "asset_id":
