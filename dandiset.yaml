@@ -38,7 +38,7 @@ assetsSummary:
     schemaKey: MeasurementTechniqueType
   - name: multi electrode extracellular electrophysiology recording technique
     schemaKey: MeasurementTechniqueType
-  numberOfBytes: 1860276351188
+  numberOfBytes: 1866803216066
   numberOfFiles: 100
   numberOfSubjects: 16
   schemaKey: AssetsSummary
@@ -53,9 +53,9 @@ assetsSummary:
   - DecompositionSeries
   - LFP
   - Units
-  - Position
   - ElectricalSeries
   - ElectrodeGroup
+  - Position
   - ProcessingModule
   - SpatialSeries
 citation: Senzai, Yuta; Fernandez-Ruiz, Antonio; Buzsáki, György (2026) Physiological
