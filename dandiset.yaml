@@ -15,31 +15,31 @@ access:
   status: dandi:OpenAccess
 assetsSummary:
   approach:
-  - name: electrophysiological approach
-    schemaKey: ApproachType
   - name: behavioral approach
+    schemaKey: ApproachType
+  - name: electrophysiological approach
     schemaKey: ApproachType
   dataStandard:
   - identifier: RRID:SCR_015242
     name: Neurodata Without Borders (NWB)
     schemaKey: StandardsType
   measurementTechnique:
-  - name: analytical technique
-    schemaKey: MeasurementTechniqueType
-  - name: spike sorting technique
-    schemaKey: MeasurementTechniqueType
-  - name: surgical technique
-    schemaKey: MeasurementTechniqueType
-  - name: behavioral technique
+  - name: fourier analysis technique
     schemaKey: MeasurementTechniqueType
   - name: signal filtering technique
     schemaKey: MeasurementTechniqueType
-  - name: fourier analysis technique
-    schemaKey: MeasurementTechniqueType
   - name: multi electrode extracellular electrophysiology recording technique
     schemaKey: MeasurementTechniqueType
-  numberOfBytes: 1787928767568
-  numberOfFiles: 99
+  - name: analytical technique
+    schemaKey: MeasurementTechniqueType
+  - name: surgical technique
+    schemaKey: MeasurementTechniqueType
+  - name: spike sorting technique
+    schemaKey: MeasurementTechniqueType
+  - name: behavioral technique
+    schemaKey: MeasurementTechniqueType
+  numberOfBytes: 1757294268750
+  numberOfFiles: 98
   numberOfSamples: 1
   numberOfSubjects: 16
   schemaKey: AssetsSummary
@@ -48,13 +48,13 @@ assetsSummary:
     name: Mus musculus - House mouse
     schemaKey: SpeciesType
   variableMeasured:
-  - Units
-  - ElectrodeGroup
   - DecompositionSeries
-  - SpatialSeries
   - ElectricalSeries
-  - LFP
+  - SpatialSeries
   - ProcessingModule
+  - ElectrodeGroup
+  - Units
+  - LFP
   - Position
 citation: Senzai, Yuta; Fernandez-Ruiz, Antonio; Buzsáki, György (2026) Physiological
   Properties and Behavioral Correlates of Hippocampal Granule Cells and Mossy Cells
@@ -149,9 +149,17 @@ contributor:
   - dcite:DataCurator
   schemaKey: Person
 dateCreated: '2020-03-15T22:56:55.655000+00:00'
-description: Data from "Physiological Properties and Behavioral Correlates of Hippocampal
-  Granule Cells and Mossy Cells" Senzai, Buzsaki, Neuron 2017. Electrophysiology recordings
-  of hippocampus during theta maze exploration.
+description: "Silicon probe recordings from the dentate gyrus and CA3 of 16 freely
+  moving mice (101 sessions), from Senzai and Buzsaki (2017), \"Physiological Properties
+  and Behavioral Correlates of Hippocampal Granule Cells and Mossy Cells\", Neuron
+  93, 691-704. Each file is one recording session: the sorted units with the lab's
+  cell types and spike waveforms, the LFP, brain states, dentate spikes, light pulses
+  for optogenetic tagging, the lab's tables of monosynaptic connections and synchronous
+  pairs, and positions and trials on the circular T-maze and in open fields.\n\nFifteen
+  of the mice are in the paper's Table S1. YutaMouse57 (8 sessions, 465 units) is
+  not part of the paper: it is not in Table S1 and its units are not in the paper's
+  counts. The paper's sixteenth mouse, YM21, recorded with a 32-site linear probe
+  for the depth profile of dentate spikes (Figure 1B), is not in this dandiset."
 ethicsApproval: []
 id: DANDI:000003/draft
 identifier: DANDI:000003
