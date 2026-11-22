@@ -55,7 +55,7 @@ assetsSummary:
   - Position
 citation: Senzai, Yuta; Fernandez-Ruiz, Antonio; Buzsáki, György (2026) Physiological
   Properties and Behavioral Correlates of Hippocampal Granule Cells and Mossy Cells
-  (Version draft) [Data set]. DANDI Archive. https://dandiarchive.org/dandiset/000003/draft
+  (Version 0.261122.2143) [Data set]. DANDI Archive. https://doi.org/10.48324/dandi.000003/0.261122.2143
 contributor:
 - affiliation:
   - identifier: https://ror.org/005dvqh91
@@ -146,6 +146,7 @@ contributor:
   - dcite:DataCurator
   schemaKey: Person
 dateCreated: '2020-03-15T22:56:55.655000+00:00'
+datePublished: '2026-11-22T21:43:39.463289+00:00'
 description: "Silicon probe recordings from the dentate gyrus and CA3 of 16 freely
   moving mice (101 sessions), from Senzai and Buzsaki (2017), \"Physiological Properties
   and Behavioral Correlates of Hippocampal Granule Cells and Mossy Cells\", Neuron
@@ -157,8 +158,9 @@ description: "Silicon probe recordings from the dentate gyrus and CA3 of 16 free
   not part of the paper: it is not in Table S1 and its units are not in the paper's
   counts. The paper's sixteenth mouse, YM21, recorded with a 32-site linear probe
   for the depth profile of dentate spikes (Figure 1B), is not in this dandiset."
+doi: 10.48324/dandi.000003/0.261122.2143
 ethicsApproval: []
-id: DANDI:000003/draft
+id: DANDI:000003/0.261122.2143
 identifier: DANDI:000003
 keywords:
 - cell types
@@ -177,9 +179,21 @@ keywords:
 license:
 - spdx:CC-BY-4.0
 manifestLocation:
-- https://api.dandiarchive.org/api/dandisets/000003/versions/draft/assets/
+- https://dandiarchive.s3.amazonaws.com/dandisets/000003/0.261122.2143/assets.yaml
 name: Physiological Properties and Behavioral Correlates of Hippocampal Granule Cells
   and Mossy Cells
+publishedBy:
+  endDate: '2026-11-22T21:43:39.463289+00:00'
+  id: urn:uuid:bbdf52f3-bf6d-404a-b6d5-da5a3b7b6a2c
+  name: DANDI publish
+  schemaKey: PublishActivity
+  startDate: '2026-11-22T21:43:39.463289+00:00'
+  wasAssociatedWith:
+  - id: urn:uuid:e2e9c4ce-741e-4405-b0b1-669521824006
+    identifier: RRID:SCR_017571
+    name: DANDI API
+    schemaKey: Software
+    version: 0.1.0
 relatedResource:
 - identifier: doi:10.1016/j.neuron.2016.12.011
   name: Physiological Properties and Behavioral Correlates of Hippocampal Granule
@@ -188,9 +202,65 @@ relatedResource:
   resourceType: dcite:JournalArticle
   schemaKey: Resource
   url: https://doi.org/10.1016/j.neuron.2016.12.011
+releaseNotes: "## Changes since version 0.260218.2052\n\nAll 101 session files were
+  re-converted with a new NeuroConv conversion ([catalystneuro/buzsaki-lab-to-nwb](https://github.com/catalystneuro/buzsaki-lab-to-nwb),
+  PRs [#87](https://github.com/catalystneuro/buzsaki-lab-to-nwb/pull/87), [#94](https://github.com/catalystneuro/buzsaki-lab-to-nwb/pull/94),
+  [#102](https://github.com/catalystneuro/buzsaki-lab-to-nwb/pull/102), [#103](https://github.com/catalystneuro/buzsaki-lab-to-nwb/pull/103),
+  [#109](https://github.com/catalystneuro/buzsaki-lab-to-nwb/pull/109), [#118](https://github.com/catalystneuro/buzsaki-lab-to-nwb/pull/118),
+  [#123](https://github.com/catalystneuro/buzsaki-lab-to-nwb/pull/123)), with fixes
+  from reproduction attempts ([issue #74](https://github.com/catalystneuro/buzsaki-lab-to-nwb/issues/74)).
+  Sessions and file names are unchanged.\n\n**Corrections**\n\n- **Gain.** LFP, wide-band
+  signal and waveforms use 0.3815 µV per step, the Amplipex system's 10 V over 16
+  bits at ×400 (it was 0.195 µV).\n- **Electrodes** follow the lab's `.xml` files:
+  shank, place in the shank's channel list, `channel_id`, and the hilus channel of
+  the dentate spikes (`hilus_reference`; channel 33 in YutaMouse20-140325, from the
+  lab's channel list). The 32-site linear probe of YutaMouse33 is a second device.\n
+  - **Units** are clusters 2 and up of the lab's `.clu` and `.res` files, with every
+  spike, their shank, electrodes, region, cell type, quality scores and optogenetic
+  tags. `drd2_tagged` marks the 42 light-suppressed units of the DRD2-Cre::Ai35 mice.
+  Units outside the lab's unit summary are labelled `not in unit summary`.\n- **Spike
+  waveforms** are the lab's int16 steps; `damaged_waveforms` counts damaged stored
+  waveforms.\n- **Trials.** `left_run` and `right_run` are the lab's, with `arm_start`,
+  `arm_end`, `sens_pass`, `light_start`, `light_end` and `sessionIdx`. `sens_pass`
+  is the time the mouse passed the sensor on the side arm it ran to.\n- **Position**
+  on the T-maze and in open fields is in meters. LED positions in pixels are in `acquisition`.\n
+  - **Light pulses** are one table, `light_pulses`, with duration, voltage and laser
+  diodes, each onset once (YutaMouse57-161006 listed 24,286 twice). It includes the
+  10 ms and 1 s pulses of YutaMouse20 and YutaMouse23.\n- **YutaMouse33.** The LFP
+  of 150218 has all 96 probe channels in channel order. The auxiliary inputs are channels
+  96 to 111 of the recording, from the lab's `.eeg` files.\n- **Subject.** Sex, species,
+  age, and genotypes from the experiment sheets (YutaMouse41 wild type). The SST-Cre
+  mice have their virus in the subject description. YutaMouse39 has its age.\n- **Brain
+  states** are described: wake, NREM and REM as the paper scored them.\n- **Sessions
+  named with `b`** are described as the second session of the day.\n- **Removed:**
+  the `hilus_lfp_phase` series of 41 files.\n\n**Additions**\n\n- The lab's tables
+  of monosynaptic connections and synchronous pairs, linked to the units table.\n
+  - Dentate spikes (DS1, DS2) with their channel.\n- The light colour the paper reports
+  for each mouse (450 nm blue or 520 nm green), in the `light_pulses` description.\n
+  - The place of each arena in the camera image, from the lab's region-of-interest
+  files, with the formula from LED pixels to position.\n- The lab's other event files
+  in `processing/events`.\n- Ontology terms (HERD), and value meanings with HED tags
+  for brain states and run direction.\n- Signals chunked for streaming.\n\n**Known
+  gaps**\n\n- YutaMouse57 (8 sessions, 465 units) is not in the paper's Table S1 or
+  counts. Its files say so.\n- The 32-site linear probe recordings of the paper's
+  mouse YM21 are not in the dandiset.\n- LFP, wide-band signal and most waveforms
+  are the earlier files' data; 17 files have a wide-band signal.\n- YutaMouse33-150218
+  has no spike waveforms. YutaMouse33-150226 has no auxiliary inputs.\n- YutaMouse45
+  has no 20 ms pulses; YutaMouse56-160915 has no light pulses.\n- The pulse files
+  of YutaMouse20 and YutaMouse23 give no voltage or laser diode.\n- The lab's files
+  do not give each laser diode's wavelength. The colour is not stated for YutaMouse41
+  and YutaMouse57.\n- The brain states `quiet` and `transit` are not defined in the
+  paper.\n- `ExtraLarge` arena positions (11 sessions) are not in meters. Linear track
+  positions of YutaMouse20 and YutaMouse23 are LED pixels only.\n- YutaMouse37-150610,
+  150611 and 150612 have T-maze positions but no trials table. The lab's share has
+  no trial file for these sessions.\n- The electrodes have no site coordinates.\n
+  - YutaMouse55 and YutaMouse56 have no age.\n- `hilus_reference` marks no channel
+  in YutaMouse55-160906 (dentate spikes on two channels) or YutaMouse20-140328 (the
+  lab's notes say its channel is not in the hilus).\n- The scaling of the auxiliary
+  inputs is not documented."
 repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.0
-url: https://dandiarchive.org/dandiset/000003/draft
-version: draft
+url: https://dandiarchive.org/dandiset/000003/0.261122.2143
+version: 0.261122.2143
 wasGeneratedBy: []
